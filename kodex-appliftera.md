@@ -73,5 +73,5 @@ Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. A
 | Verze | Datum | Popis změny | Autor |
 |-------|-------|-------------|-------|
 | v0.1  | 26.3.2018 | Initial internal release | Vráťa |
-| v0.2  | 17.6.2018 | Fixed Types, external release | Vráťa |
+| v0.2  | 17.6.2018 | Fixed typos, external release | Vráťa |
 
