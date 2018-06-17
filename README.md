@@ -1,8 +1,6 @@
 # Firemní kultura Appliftingu 🚀
 
-V tomto repozitáři najdete firemní kulturu Appliftingu.
-
-Věříme, tomu, že pokud ji uvolníme jako open source, tak:
+V tomto repozitáři najdete firemní kulturu Appliftingu. Věříme, že pokud ji uvolníme jako open source, tak:
 
 1. 🔮 Naše jednání bude transparentní a naši partneři a klienti budou vědět co od nás očekávat. 
 2. 🔄 Pokud nebudeme jednat dle naší firemní kultury, okolní svět nás upozorní a pomůže se nám vrátit k našim hodnotám a principům.
