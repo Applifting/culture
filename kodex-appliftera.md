@@ -12,6 +12,7 @@ Tykáme si a jsme neformální. Víme, že nejdůležitější je, jaký jsi lid
 Když jsme tě nabírali, tak jeden z důvodů proč si prošel pohovorem byl ten, že si myslíme, že nám budeš sedět. Pokud ti nesedíme, no big deal, prostě nám to řekni. Od toho je zkušebka, abychom to navzájem zjistili. :-)
 
 ### Když se mi něco nelíbí, tak to řeknu
+
 Je důležité, abys řekl jinému Applifterovi, že se ti něco nezdá nebo že se ti něco nelíbí. Ideálně to řekni rovnou tomu, kdo s tím může něco udělat. Jedině upřímností a tím, že nebudeme věci zametat pod koberec se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
 
 
