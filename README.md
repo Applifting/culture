@@ -16,7 +16,7 @@ Níže najdete niterní dokumenty Appliftingu, dle kterých se u nás řídíme.
 
 1. 📜🚀📜 [**Kodex Appliftera**](./kodex-appliftera.md) - Základní dokument, shrnující naše hodnoty
 2. 📜👨‍✈️📜 **Kodex team leada** *(comming soon)* - Kodex, dle kterého se řídí naši vedoucí týmů
-3. 📜👨‍🏫📜 **Kodex mentora** *(comming soon)* - Kodex, dle kter0ho se řídí ti, co pečují o profesionální a lidský postup ostatních Applifterů
+3. 📜👨‍🏫📜 **Kodex mentora** *(comming soon)* - Kodex, dle kterého se řídí ti, co pečují o profesionální a lidský postup ostatních Applifterů
 
 
 ## Zpětná vazba
