@@ -27,7 +27,7 @@ Je ok slíbit, že se “na to dneska pokusíš podívat”, ale pokud to nevyjd
 Selhání hlásím s předstihem (fail fast)
 Když to vypadá, že se přes všechnu tvoji snahu něco nepovede dodržet, včas o tom tomu druhému dej vědět, aby se dle toho mohl zařídit.
 
-Nebojím se říct si o pomoct. #kdyžnevímtaksezeptám
+Nebojím se říct si o pomoc. #kdyžnevímtaksezeptám
 
 ## Svoboda - Makám kolik chci, kdy chci a kde chci, vždy však respektuji to, jak jsem se dohodl s ostatními
 
