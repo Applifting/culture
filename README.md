@@ -19,5 +19,5 @@ Níže najdete niterní dokumenty Appliftingu, dle kterých se u nás řídíme.
 
 ## Zpětná vazba
 
-Fungují vám elementy naší firemní kultury? Máte pro nás připomínky? Nápady na zlepšení? Pokud ano, tak nám zde prosím otevřete pull-request, vytvořte issue, nebo se s námi spojte pomocí našeho 🐦 [Twitter účtu @applifting_cz](https://twitter.com/applifting_cz) . Velmi si vážíme za jakoukoli zpětnou vazbu.
+Fungují vám elementy naší firemní kultury? Máte pro nás připomínky? Nápady na zlepšení? Pokud ano, tak nám zde prosím otevřete pull-request, vytvořte issue, nebo se s námi spojte pomocí našeho 🐦 [Twitter účtu @applifting_cz](https://twitter.com/applifting_cz) . Velmi si vážíme jakékoli zpětné vazby.
 
