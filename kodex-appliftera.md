@@ -3,6 +3,15 @@
 
 Ahoj, jsme moc rádi, že ses rozhodl s námi do toho jít. Doufáme, že tě nezklameme a že pro tebe bude Applifting příjemné místo pro práci. Níže najdeš několik zásad pro to, aby se ti tu dobře makalo a aby ostatní Applifteři rádi makali s tebou.
 
+## Základní předpoklady
+
+Naše firemní kultura vychází z těchto základních předpokladů:
+
+* Applifteři jsou dobří a féroví lidé
+* Applifteři jsou motivováni přinášet hodnotu ostatním
+* Applifteři chtějí nést zodpovědnost za věci, na kterých jim záleží (a mít stím související uznání, respekt a rozhodovací pravomoci)
+* Bez štěstí není výkonů
+
 ## Upřímnost - Říkám věci tak, jak jsou
 
 ### Hej kámo kultura
@@ -76,4 +85,5 @@ Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. A
 | v0.1  | 26.3.2018 | Initial internal release | Vráťa |
 | v0.2  | 17.6.2018 | Fixed typos, external release | Vráťa |
 | v0.3  | 18.6.2018 | Enhance grammar and style | ZWG  
+| v0.4  | 31.8.2018 | Add basic assumptions | Vráťa  
 
