@@ -9,7 +9,7 @@ Naše firemní kultura vychází z těchto základních předpokladů:
 
 * Applifteři jsou dobří a féroví lidé
 * Applifteři jsou motivováni přinášet hodnotu ostatním
-* Applifteři chtějí nést zodpovědnost za věci, na kterých jim záleží (a mít stím související uznání, respekt a rozhodovací pravomoci)
+* Applifteři chtějí nést zodpovědnost za věci, na kterých jim záleží (a mít související uznání, respekt a rozhodovací pravomoci)
 * Bez štěstí není výkonů
 
 ## Upřímnost - Říkám věci tak, jak jsou
