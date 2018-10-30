@@ -10,7 +10,7 @@ V tomto repozitáři najdete firemní kulturu Appliftingu. Věříme, že pokud 
 
 ## Kodexy Appliftingu
 
-Níže najdete niterní dokumenty Appliftingu, dle kterých se u nás řídíme.
+Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 
 1. 📜🚀📜 [**Kodex Appliftera**](./kodex-appliftera.md) - Základní dokument, shrnující naše hodnoty
 2. 📜👨‍✈️📜 **Kodex team leadera** *(coming soon)* - Kodex, dle kterého se řídí naši vedoucí týmů
