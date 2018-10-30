@@ -49,7 +49,7 @@ Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, 
 
 ### Komunikace se zákazníkem
 
-Stane se ti mnohokrát, že bude potřeba něco probrat se zákazníkem. Pokus se odhadnout situaci a vhodně jednat, aby si neudělal ostudu sobě ani Appliftingu. Ale zase se nepřetvařuj, máme svojí identitu. Když myslím politika, nemyslím populistu, spíš člověka slušného, s citem pro situaci.
+Stane se ti mnohokrát, že bude potřeba něco probrat se zákazníkem. Pokus se odhadnout situaci a vhodně jednat, aby si neudělal ostudu sobě ani Appliftingu. Ale zase se nepřetvařuj, máme svojí identitu. Když myslíme diplomata, nemyslíme populistu, spíš člověka slušného, s citem pro situaci.
 
 ### Komunikace vnitřní, teamová
 
