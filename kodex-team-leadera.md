@@ -45,7 +45,7 @@ Vést team s sebou nese příjemné úspěchy, ale i faily. Všichni to známe, 
 
 Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti to a deleguj to tam, kam je potřeba.
 
-## Prime minister - Najdi v sobě politika
+## Jsi frontmanem Appliftingu - Najdi v sobě diplomata
 
 ### Komunikace se zákazníkem
 
