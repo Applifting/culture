@@ -19,7 +19,7 @@ Na druhou stranu, když se domluvíte na termínu, vyžaduj jeho splnění, dead
 
 ### Noví lidé, nová krev
 
-Do teamu můžou přijít noví lidé, což je vždycky super, ale může se taky stát, že na to někdo nemá, v Appliftingu to není procházka růžovým sadem. Ty seš ten kdo o tom musí rozhodnout, snaž se to vždycky vnímat nezaujatě, buď fér, ale neber si servítky. Když si nejseš jistej a potřebuješ se poradit, běž a prober to s jiným teamleadem, s klukama z councilu nebo s kýmkoliv o kom si myslíš, že ti může pomoci se správně rozhodnout.
+Do teamu můžou přijít noví lidé, což je vždycky super, ale může se taky stát, že na to někdo nemá, v Appliftingu to není vždy procházka růžovým sadem. Ty seš ten kdo o tom musí rozhodnout, snaž se to vždycky vnímat nezaujatě, buď fér, ale neber si servítky. Když si nejseš jistej a potřebuješ se poradit, běž a prober to s jiným teamleadem, s klukama z councilu nebo s kýmkoliv o kom si myslíš, že ti může pomoci se správně rozhodnout.
 
 ### Plánuj a neber si toho víc, než dokážeš
 
