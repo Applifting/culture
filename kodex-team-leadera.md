@@ -2,28 +2,30 @@
 
 _Jednoduchá příručka, jak být dobrým team leaderem_
 
-Vést lidi není jednoduchá práce nejen v Appliftingu, někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady. Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./kodex-appliftera.md), tak si ho koukej přečíst než se pustíš do tohoto!
+Vést lidi není jednoduchá práce nejen v Appliftingu, někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady.
+
+Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./kodex-appliftera.md), tak si ho koukej přečíst než se pustíš do tohoto!
 
 ## Objektivita - Mám realistické požadavky a všechny měřím stejným metrem
 
 ### Pracuj s tím co máš
 
-Fakt se to stalo, vedeš team Applifterů, určitě team skvělých lidí. Je potřeba znát karty, se kterýma hraješ. Buď si jistý s jakým skill faktorem disponuješ a deleguj dle toho práci. Buď realista a neklaď přehnané požadavky na juniora ani seniora, zadej jim to tak, aby byli všichni ok s tím, že to zvládnou.
+Fakt se to stalo, vedeš team Applifterů, určitě team skvělých lidí. Je potřeba znát karty, se kterýma hraješ.
+Buď si jistý s jakým skill faktorem disponuješ a deleguj dle toho práci. Buď realista a neklaď přehnané požadavky na juniora ani seniora, zadej jim to tak, aby byli všichni ok s tím, že to zvládnou.
 
 ### Buď tvrdej, ale fér
 
 Na druhou stranu, když se domluvíte na termínu, vyžaduj jeho splnění, deadliny se musí dodržovat, nebo včas hlásit problém (fail fast).
+
+### Noví lidé, nová krev
+
 Do teamu můžou přijít noví lidé, což je vždycky super, ale může se taky stát, že na to někdo nemá, v Appliftingu to není procházka růžovým sadem. Ty seš ten kdo o tom musí rozhodnout, snaž se to vždycky vnímat nezaujatě, buď fér, ale neber si servítky. Když si nejseš jistej a potřebuješ se poradit, běž a prober to s jiným teamleadem, s klukama z councilu nebo s kýmkoliv o kom si myslíš, že ti může pomoci se správně rozhodnout.
 
 ### Plánuj a neber si toho víc, než dokážeš
 
 Známe to, každý už se někdy přecenil, něco blbě nacenil nebo se objevilo něco s čím nepočítal. I přes to se snaž analýze a plánování věnovat fakt velkou pozornost, už to nebude jenom tvůj fail, ale fail celého teamu.
 
-## Členové týmu - Snažím se, aby se tým neustále posouval dál
-
-### Noví lidé, nová krev
-
-Každý člen přináší do týmu nový náboj a energii. Na začátku bych měl kolegu svědomitě uvést do projektu a sledovat jeho výkon. V průběhu zkušební doby si s ním otevřeně povídám o jeho výkonech a pocitech z nového týmu. Nejpozději na konci zkušební doby udělám evaluaci jeho zkušeností, výkonu a finanční odměny. Když nový člen neprokázal, že na danou pozici stačí, navrhnu mu finanční narovnání na adekvátní pozici nebo ukončení spolupráce.
+## Vzdělání - Mám zájem o to, aby se můj tým ve svých dovednostech zdokonaloval
 
 ### Veď lidi kupředu
 
@@ -32,6 +34,7 @@ Dohlížím, aby lidé v mém týmu měli svého mentora a mohli se tak posouvat
 ## Ego stranou - Buď vzorem, nepovyšuj se
 
 Pomáhej, buď po ruce
+
 Tvým úkolem není lidi v teamu topit s nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých sklillech dál.
 
 ### Buď zodpovědný
@@ -54,7 +57,7 @@ Máš zodpovědnost, tak se snaž zvládat i interní komunikaci. Občas musíš
 
 ## Changelog
 
-| Verze | Datum      | Popis změny             | Autor        |
-| ----- | ---------- | ----------------------- | ------------ |
-| v0.1  | 9.6.2018   | Initial release         | @hauseja3    |
-| v0.2  | 30.10.2018 | Added team members care | @prokopsimek |
+| Verze | Datum      | Popis změny              | Autor        |
+| ----- | ---------- | ------------------------ | ------------ |
+| v0.1  | 9.6.2018   | Initial internal release | Jan Hauser   |
+| v0.2  | 30.10.2018 | Public release           | Prokop Simek |
