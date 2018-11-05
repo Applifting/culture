@@ -51,6 +51,10 @@ Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, 
 
 Stane se ti mnohokrát, že bude potřeba něco probrat se zákazníkem. Pokus se odhadnout situaci a vhodně jednat, aby si neudělal ostudu sobě ani Appliftingu. Ale zase se nepřetvařuj, máme svojí identitu. Když myslíme diplomata, nemyslíme populistu, spíš člověka slušného, s citem pro situaci.
 
+### Výjimečné situace
+
+Někdy je potřeba zabrat, protože se blíží termín dodání nebo se stal nějaký nepředvídaný problém. Na tobě je dohodnout se a ujasnit si s klientem jaká situace je považována za výjimečnou, se kterou mu moc rádi pomůžeme, ale bude to účtováno vyšší sazbou.
+
 ### Komunikace vnitřní, teamová
 
 Máš zodpovědnost, tak se snaž zvládat i interní komunikaci. Občas musíš vést standupy, statusy nebo třeba debaty. Je dobré, když tomu dáváš úroveň. Jak vědomostně, tak formálně.
