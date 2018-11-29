@@ -25,31 +25,31 @@ Do teamu můžou přijít noví lidé, což je vždycky super, ale může se tak
 
 Známe to, každý už se někdy přecenil, něco blbě nacenil nebo se objevilo něco s čím nepočítal. I přes to se snaž analýze a plánování věnovat fakt velkou pozornost, už to nebude jenom tvůj fail, ale fail celého teamu.
 
-## Vzdělání - Mám zájem o to, aby se můj tým ve svých dovednostech zdokonaloval
+## Vzdělání - Mám zájem o to, aby se můj team ve svých dovednostech zdokonaloval
 
 ### Veď lidi kupředu
 
-Dohlížím, aby lidé v mém týmu měli svého mentora a mohli se tak posouvat ve svých zkušenostech dál. S jejich mentorem konzultuji dovednosti a soft-skills, případně nastavujeme společně další cíle, aby byl náš kolega každým dnem lepším.
+Dohlížím, aby lidé v mém teamu měli svého mentora a mohli se tak posouvat ve svých zkušenostech dál. S jejich mentorem konzultuji dovednosti a soft-skills, případně nastavujeme společně další cíle, aby byl náš kolega každým dnem lepším.
 
 ## Ego stranou - Buď vzorem, nepovyšuj se
 
-Pomáhej, buď po ruce
+### Pomáhej, buď po ruce
 
-Tvým úkolem není lidi v teamu topit s nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých sklillech dál.
+Tvým úkolem není lidi v teamu topit s nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých skillech dál.
 
 ### Buď zodpovědný
 
-Vést team s sebou nese příjemné úspěchy, ale i faily. Všichni to známe, když se to s*re, tak se to se*e. V takových chvílích není tvojí povinností házet vinu na ostatní, naopak se máš za team postavit. Show your face, omluv se za celý team a pokus se najít příčinu, kterou s ostatními probereš a uděláte společně všechno pro to, aby se to už příště nestalo.
+Vést team s sebou nese příjemné úspěchy, ale i faily. Všichni to známe, když se to s*re, tak se to se*e. V takových chvílích neházej vinu na ostatní, naopak se za svoje lidi postav. Show your face, omluv se zákazníkovi a pokus se najít příčinu, kterou s ostatními probereš. Dohodni se na postupu, co všechno uděláte společně pro to, aby se to už příště nestalo.
 
-### Když nevíš, tak nevíš
+### Když nevíš, tak nevíš - Přiznej to a najdi řešení v rámci teamu
 
-Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti to a deleguj to tam, kam je potřeba.
+Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti co je třeba. Na řešení nemusíš vždy pracovat sám. Zásadní otázky probírej s celým teamem, jednotivosti můžeš řešit sám, nebo je můžeš delegovat na jednotlivé členy teamu.
 
-## Jsi frontmanem Appliftingu - Najdi v sobě diplomata
+## Jsi frontmanem Appliftingu - Najdi v sobě ambasadora
 
 ### Komunikace se zákazníkem
 
-Stane se ti mnohokrát, že bude potřeba něco probrat se zákazníkem. Pokus se odhadnout situaci a vhodně jednat, aby si neudělal ostudu sobě ani Appliftingu. Ale zase se nepřetvařuj, máme svojí identitu. Když myslíme diplomata, nemyslíme populistu, spíš člověka slušného, s citem pro situaci.
+Stane se ti mnohokrát, že bude potřeba něco probrat se zákazníkem. Pokus se odhadnout situaci a vhodně jednat, aby si neudělal ostudu sobě ani Appliftingu. Ale zase se nepřetvařuj, máme svojí identitu. Když myslíme ambasadora, nemyslíme populistu, spíš člověka slušného, s citem pro situaci.
 
 ### Komunikace vnitřní, teamová
 
@@ -57,7 +57,8 @@ Máš zodpovědnost, tak se snaž zvládat i interní komunikaci. Občas musíš
 
 ## Changelog
 
-| Verze | Datum      | Popis změny              | Autor        |
-| ----- | ---------- | ------------------------ | ------------ |
-| v0.1  | 9.6.2018   | Initial internal release | Jan Hauser   |
-| v0.2  | 30.10.2018 | Public release           | Prokop Simek |
+| Verze | Datum      | Popis změny              | Autor             |
+| ----- | ---------- | ------------------------ | ------------------|
+| v0.1  | 9.6.2018   | Initial internal release | Jan Hauser        |
+| v0.2  | 30.10.2018 | Public release           | Prokop Simek      |
+| v0.3  | 29.11.2018 | Stylistical edit         | Vratislav Kalenda |
