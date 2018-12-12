@@ -22,7 +22,11 @@ Když jsme tě nabírali, jeden z důvodů, proč jsi prošel pohovorem, byl ten
 
 ### Když se mi něco nelíbí, řeknu to
 
-Je důležité, abys řekl jinému Applifterovi, že se ti něco nezdá nebo že se ti něco nelíbí. Ideálně to řekni rovnou tomu, kdo s tím může něco udělat. Jedině upřímností a tím, že nebudeme věci zametat pod koberec, se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
+Je důležité, abys řekl jinému Applifterovi, že se ti něco nezdá nebo že se ti něco nelíbí. Ideálně to řekni rovnou tomu, kdo s tím může něco udělat. 
+
+Pokud máš problém s jiným Applifterem, tak to nedrž v sobě. Nejdřív se to pokus vyřešit v soukromí mezi čtyřma očima přímo s daným kolegou. Když se to nepodaří, vyhledejte společně Appliftera, kterému oba důvěřujete. Poproste ho, aby vám konflikt pomohl vyřešit.
+
+Jedině upřímností a tím, že nebudeme věci zametat pod koberec, se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
 
 
 
@@ -86,4 +90,4 @@ Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. A
 | v0.2  | 17.6.2018 | Fixed typos, external release | Vráťa |
 | v0.3  | 18.6.2018 | Enhance grammar and style | ZWG  
 | v0.4  | 31.8.2018 | Add basic assumptions | Vráťa  
-
+| v0.5  | 12.12.2018 | Add paragraph about interpersonal conflict handling | Vráťa  
