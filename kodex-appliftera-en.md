@@ -44,11 +44,11 @@ Do not be afraid to ask for help or advice.
 ### I work how much I want
 When you start a full-time position in Applifting, we expect you will be working 7-8 hours a day. It's easy to change that. If you want to work less or more than that, just go to your team leader and come to an arrangement that will fit you and your team.
 
-There might come a time when we as a team need to buckle up and do extra work to meet the deadlines. Sometimes you can tell yourself that this is the situation where extra effort is needed and sometimes you will be asked by your colleagues to put some extra work. 
+There might come a time when we as a team need to buckle up and do extra work to meet the deadlines. Sometimes you can tell yourself that this is the situation where extra effort is needed and sometimes, you will be asked by your colleagues to put some extra work. 
 
 We greatly appreciate it if you help us in those times. Let us know If you work overtime regularly! These should be exceptional situations.  Not that your overtime wouldn't not be rewarded: your extra time is always paid by your standard rate. Nonetheless, we would be devastated if you would burn out because of constant crunch time.
 
-Some people literally breathe for Applifting. (Vráťa, Filip, and others ;-) ) Those guys and gals regularly work more than 8 hours per day; sometimes because they really enjoy it, sometimes because it is needed and they want to spare some other Applifter from overtime. Nobody asks you to be that involved. It is completely alright to work 7-8 hours and then go home. We respect that for some Applifters there is a strict divide between work and free time.
+Some people literally breathe for Applifting. (Vráťa, Filip, and others ;-) ) Those guys and gals regularly work more than 8 hours per day; sometimes because they really enjoy it and sometimes, because it is needed and they want to spare some other Applifter from overtime. Nobody asks you to be that involved. It is completely alright to work 7-8 hours and then go home. We respect that for some Applifters there is a strict divide between work and free time.
 
 
 ### I work where I want and when I want, but only if I have what it takes
@@ -65,7 +65,7 @@ I know standards and best practices in my field. I perform my craft according to
 
 Seek knowledge proactively If you have a feeling that you do not completely know the best practices in your field. It's always a good idea to consult more experienced Applifter.
 
-### I want to be good and I do something for it.
+### I want to be good and I am prepared to do something for it.
 
 *"Learn or die"*
 
