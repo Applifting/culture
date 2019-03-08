@@ -46,7 +46,7 @@ Tím, že sdílím úspěchy ostatních, přispívám k dobré atmosféře v App
 
 ### Konflikt řeším soukromě s tím, s kým ho mám
 
-Konflikty/pnutí mezi lidmi jsou přirozenou součástí fungování každé organizace a Applifting není výjimkou. To, jak lidé ke konfliktům přistupují, dělá rozdíl mezi organizací, kde je radost pracovat a organizací, kde jsou vztahy na bodu mrazu. 
+Konflikty/pnutí mezi lidmi jsou přirozenou součástí fungování každé organizace a Applifting není výjimkou. To, jak lidé ke konfliktům přistupují, dělá rozdíl mezi organizací, kde je radost pracovat a místem, kde jsou vztahy na bodu mrazu. 
 
 V Appliftingu bereme pnutí jako příležitost osobnostně vyrůst a prohloubit vztahy se svými kolegy.
 
