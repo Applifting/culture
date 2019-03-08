@@ -42,7 +42,7 @@ Nebojím se říct si o pomoc. #kdyžnevímtaksezeptám
 
 Pokud se někomu něco povede, řeknu to veřejně před ostatními; svá slova ale vážím, vím, že neupřímná pochvala je mnohem horší, než žádná pochvala. 
 
-Tím, že sdílím úspěchy ostatních přispívám k dobré atmosféře v Appliftingu.
+Tím, že sdílím úspěchy ostatních, přispívám k dobré atmosféře v Appliftingu.
 
 ### Konflikt řeším soukromě s tím, s kým ho mám
 
