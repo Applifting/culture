@@ -40,7 +40,7 @@ Nebojím se říct si o pomoc. #kdyžnevímtaksezeptám
 
 ### Chválím veřejně
 
-Pokud se někomu něco povede, řeknu to veřejně před ostatními; svá slova ale vážím, vím, že neupřímná pochvala je mnohem horší než žádná pochvala. 
+Pokud se někomu něco povede, řeknu to veřejně před ostatními; svá slova ale vážím, vím, že neupřímná pochvala je mnohem horší, než žádná pochvala. 
 
 Tím, že sdílím úspěchy ostatních přispívám k dobré atmosféře v Appliftingu.
 
