@@ -44,21 +44,20 @@ Pokud se někomu něco povede, řeknu to veřejně před ostatními; svá slova 
 
 Tím, že sdílím úspěchy ostatních přispívám k dobré atmosféře v Appliftingu.
 
-### Konflikt řeším soukromě, s tím, s kým ho mám
+### Konflikt řeším soukromě s tím, s kým ho mám
 
-Konflikty/pnutí mzei lidmi jsou přirozenou součástí fungování každé organizace a Applifting není výjimkou. To jak lidé ke konfliktům přistupují, dělá rozdíl mezi organizací, kde je radost pracovat a organizací, kde jsou vztahy na bodu mrazu. 
+Konflikty/pnutí mezi lidmi jsou přirozenou součástí fungování každé organizace a Applifting není výjimkou. To, jak lidé ke konfliktům přistupují, dělá rozdíl mezi organizací, kde je radost pracovat a organizací, kde jsou vztahy na bodu mrazu. 
 
 V Appliftingu bereme pnutí jako příležitost osobnostně vyrůst a prohloubit vztahy se svými kolegy.
 
-Když mám s nějakým Applifterem konflitk/pnutí, vždy ho nejdříve řeším mezi čtyřma očima přímo s ním.
-Pokud nevím jak na to, postupuji dle <<TODO>>tohoto návodu. 
+Když mám s nějakým Applifterem konflikt či pnutí, vždy ho nejdříve řeším mezi čtyřma očima přímo s ním.
+Pokud nevím jak na to, postupuji dle <<TODO>> tohoto návodu. 
 
 Pokud se mi nepovede vyřešit konflikt ve dvou, dohodnu se s daným Applifterem na někom, komu oba dva důvěřujeme. Poprosíme ho, aby nám dělal mediátora konfliktu.
 
 Konflikt vezmeme před radu starších, pokud se nám nepovede konflikt vyřešit ve třech nebo se neshodneme na mediátorovi.
 
 Konflikt je soukromá věc a měla by se stát veřejnou teprve tehdy, když tyto mechanismy selžou.
-
 
 ### Nejsem toxický
 
