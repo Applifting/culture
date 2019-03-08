@@ -53,7 +53,7 @@ V Appliftingu bereme pnutí jako příležitost osobnostně vyrůst a prohloubit
 Když mám s nějakým Applifterem konflitk/pnutí, vždy ho nejdříve řeším mezi čtyřma očima přímo s ním.
 Pokud nevím jak na to, postupuji dle <<TODO>>tohoto návodu. 
 
-Pokud se mi nepovede vyřešit konflikt ve dvou, dohodnu se s daným Applifterem na někom, komu oba dva důvěřujeme. Porosíme ho, aby nám dělal mediátora konfliktu.
+Pokud se mi nepovede vyřešit konflikt ve dvou, dohodnu se s daným Applifterem na někom, komu oba dva důvěřujeme. Poprosíme ho, aby nám dělal mediátora konfliktu.
 
 Konflikt vezmeme před radu starších, pokud se nám nepovede konflikt vyřešit ve třech nebo se neshodneme na mediátorovi.
 
