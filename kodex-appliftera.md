@@ -26,9 +26,9 @@ Je důležité, abys řekl jinému Applifterovi, že se ti něco nezdá nebo že
 
 
 
-## Důvěra - Když něco slíbím, dodržím to
+## Důvěra
 
-### Moje sliby mají váhu
+### Když něco slíbím, dodržím to. Moje sliby mají váhu
 
 Když něco slíbím, Applifterovi, zákazníkovi, partnerovi, snažím se to dodržet. Je důležité, aby ostatní lidi věděli, že se na tebe můžou spolehnout. Pokud si myslíš, že něco nemůžeš dodržet, neslibuj to (nauč se říkat ne), anebo řekni, za jakých podmínek to dodržíš.
 
@@ -37,6 +37,35 @@ Selhání hlásím s předstihem (fail fast)
 Když to vypadá, že se přes všechnu tvoji snahu něco nepovede dodržet, včas o tom tomu druhému dej vědět, aby se dle toho mohl zařídit.
 
 Nebojím se říct si o pomoc. #kdyžnevímtaksezeptám
+
+### Chválím veřejně
+
+Pokud se někomu něco povede, řeknu to veřejně před ostatními; svá slova ale vážím, vím, že neupřímná pochvala je mnohem horší, než žádná pochvala. 
+
+Tím, že sdílím úspěchy ostatních, přispívám k dobré atmosféře v Appliftingu.
+
+### Konflikt řeším přímo s tím, s kým ho mám, ne ja za jeho zády
+
+Konflikty/pnutí mezi lidmi jsou přirozenou součástí fungování každé organizace a Applifting není výjimkou. To, jak lidé ke konfliktům přistupují, dělá rozdíl mezi organizací, kde je radost pracovat a místem, kde jsou vztahy na bodu mrazu.
+
+V Appliftingu bereme pnutí jako příležitost osobnostně vyrůst a prohloubit vztahy se svými kolegy.
+
+Následující postup se využívá pro všechny typy konfliktů: od nedodržování závazků a slibů, po porušení tohoto kodexu, přes profesní/technologickou neshodu až po osobní problém s kolegou.
+
+Když mám s nějakým Applifterem pnutí či konflikt, vždy ho nejdříve řeším mezi čtyřma očima přímo s ním.
+Pokud nevím jak na to, postupuji dle <<TODO>> tohoto návodu. 
+
+Pokud se mi nepovede vyřešit konflikt ve dvou, dohodnu se s daným Applifterem na někom, komu oba dva důvěřujeme. Poprosíme ho, aby nám dělal mediátora konfliktu.
+
+Konflikt vezmeme před radu starších, pokud se nám nepovede konflikt vyřešit ve třech nebo se neshodneme na mediátorovi.
+
+Konflikt je soukromá věc a měla by se stát veřejnou teprve tehdy, když tyto mechanismy selžou.
+
+### Nejsem toxický
+
+Nepoužívám svoje emoce jako zbraň proti ostatním. Nelžu, nezkresluji realitu, nešířím pomluvy, nekonspiruji.
+
+Pokud si všimnu, že se někdo z Applifterů chová toxicky, soukromě ho na to upozorním.
 
 ## Svoboda - Makám kolik chci, kdy chci a kde chci, vždy však respektuji to, jak jsem se dohodl s ostatními
 
