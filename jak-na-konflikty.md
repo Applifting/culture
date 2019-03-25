@@ -25,11 +25,13 @@ Pokud máš s nadcházejícím konfliktem spojených hodně negativních emocí,
 Věci, co ti můžou v tomhle pomoci:
 
  * Sedni si sám v tiché místnosti na 5 minut a zamedituj si o tvém kolegovi. Soustřeď se na jeho kladné vlastnosti a hezké věci, co jste spolu zažili. Uvědom si, že nacházející konflikt je pravděpodobně něco, čemu se za půl roku nad pivem zasmějete.
- * Jdi na chvíli pracovat nebo dělat něco jiného. Dělej něco, co ti dělá radost.
+ * Jdi na chvíli pracovat nebo dělat něco jiného. Dělej něco, co ti dělá radost a obnoví tvoji víru v dobro lidí.
 
 ## Vyvolání řešení konfliktu
 
 Zastav kolegu v soukromí a popros ho, jestli by si na tebe na chvilku neudělal čas. Řekni mu, že s ním potřebuješ vyřešit nějaké pnutí (klidně to můžeš říct přátelštější či vtipnější formou). Pokud čas nemá, domluv se na čase, kdy se to bude oběma stranám hodit.
+
+Pokud kolega nechce řešit konflikt s tebou o samotě, vyhledejte rovnou mediátora.
 
 ## Řešení konfliktu
 
