@@ -54,7 +54,6 @@ Pokud se vám nedaří domluvit se na dalším postupu, který by byl pro vás o
 
 Ideální mediátor je:
 * Důvěryhodný pro obě strany
-* Někdo, kdo má vhled do problematiky
 * Nezaujatý v daném problému
 
 Za mediátorem zajďete dohromady a poproste ho o mediaci společně. 
