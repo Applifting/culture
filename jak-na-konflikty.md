@@ -4,6 +4,8 @@ Cílem této příručky je pomoct ti zvládat konfliktní situace mezi tebou a 
 
 V Kodexu Appliftera se můžeš dočíst, že řešení konfliktů je přirozenou součástí každé organizace. Proto je důležité, abys věděl, jak ke konfliktu přistupovat tak, abys minimalizoval jeho toxicitu pro tebe a pro tvého kolegu a zároveň aby tvé jednání směřovalo k jeho vyřešení.
 
+Níže najdeš doporučený postup, jak konflikty řešit tak, aby nám tu bylo hezky. Je jasné, že každý konflikt je trošku jiný a ne všechny lze řešit stejně. Pokud si nevíš rady, zajdi se poradit za radou starších.
+
 ## Příprava
 
 Před tím, než začneš s kolegou konflikt řešit, je dobré si v hlavě či na papíře ujasnit pár věcí. 
@@ -18,7 +20,12 @@ Před tím, než začneš s kolegou konflikt řešit, je dobré si v hlavě či 
 
 ## Před konfliktem
 
-Pokud máš s nadcházejícím konfliktem spojených hodně negativních emocí, zkus je nejdříve zmírnit. Sedni si sám v tiché místnosti na 5 minut a zamedituj si o tvém kolegovi. Soustřeď se na jeho kladné vlastnosti a hezké věci, co jste spolu zažili. Uvědom si, že nacházející konflikt je pravděpodobně něco, čemu se za půl roku nad pivem zasmějete.
+Pokud máš s nadcházejícím konfliktem spojených hodně negativních emocí, zkus je nejdříve zmírnit. 
+
+Věci, co ti můžou v tomhle pomoci:
+
+ * Sedni si sám v tiché místnosti na 5 minut a zamedituj si o tvém kolegovi. Soustřeď se na jeho kladné vlastnosti a hezké věci, co jste spolu zažili. Uvědom si, že nacházející konflikt je pravděpodobně něco, čemu se za půl roku nad pivem zasmějete.
+ * Jdi na chvíli pracovat nebo dělat něco jiného. Dělej něco, co ti dělá radost.
 
 ## Vyvolání řešení konfliktu
 
