@@ -50,13 +50,15 @@ Postupuj volně dle následujícíh bodů. Popros kolegu aby ti naslouchal a nep
 
 1. **Tohle se stalo / Tohle se děje** => Popiš bez emocí předmět konfliktu. 
 2. **Takhle se kolem toho cítím** => Popiš jaký má na tebe předmět konfliktu emocionální dopad. Pokus se svoje emoce regulovat tak, aby to ten druhý ustál.
-3. **Potřeboval bych, aby se tohle stalo / změnilo** => Popiš, jakou očekáváš u kolegy změnu v jeho chování/jeho přístupu.
+3. **Proč si myslím, že to bylo/je špatně** =>  Zvědom, proč podle tebe bylo jednání tvého kolegy špatně. (pokud to není absolutně zřejmé)
+4. **Potřeboval bych, aby se tohle stalo / změnilo** => Popiš, jakou očekáváš u kolegy změnu v jeho chování/jeho přístupu.
 
 Teď je řada na tobě abys kladl otázky ty, nepřerušoval a naslouchal tvému kolegovi. Upozaď ego a snaž se kolegu pochopit.
 
 1. **Co se podle tebe stalo? / Co se děje?** => Zeptej se kolegy jak předmět konfliktu vidí on. 
 2. **Jak se kolem toho cítíš?** => Zeptej se kolegy, jaké má kolem celé situace emoce.
-3. **Co ode mě potřebuješ, aby se to stalo / změnilo** => Zeptej se kolegy, co potřebuje od tebe, aby ti byl schopný vyhovět.
+3. **Pokud se mnou neshouhlasíš, proč si myslíš, že to bylo/je dobře?** => Zeptej se kolegy, proč si myslí, že postupoval dobře? Snaž se do něj vcítit a jeho motivaci pochopit.
+4. **Co ode mě potřebuješ, aby se to stalo / změnilo** => Zeptej se kolegy, co potřebuje od tebe, aby ti byl schopný vyhovět.
 
 Společně se domluvte na dalším postupu.
 
@@ -93,4 +95,4 @@ Pokud se ani za pomocí mediace nedaří konflikt vyřešit, přichází na řad
 
 Řešení s radou starších probíhá obdobně, jako řešení s mediátorem.
 
-Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, tak má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varinta, ke které by mělo docházet naprosto výjmečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
+Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, tak má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varinta, ke které by mělo docházet naprosto výjimečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
