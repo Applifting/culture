@@ -53,7 +53,7 @@ V Appliftingu bereme pnutí jako příležitost osobnostně vyrůst a prohloubit
 Následující postup se využívá pro všechny typy konfliktů: od nedodržování závazků a slibů, po porušení tohoto kodexu, přes profesní/technologickou neshodu až po osobní problém s kolegou.
 
 Když mám s nějakým Applifterem pnutí či konflikt, vždy ho nejdříve řeším mezi čtyřma očima přímo s ním.
-Pokud nevím jak na to, postupuji dle <<TODO>> tohoto návodu. 
+Pokud nevím jak na to, postupuji dle [tohoto návodu](./jak-na-konflikty.md). 
 
 Pokud se mi nepovede vyřešit konflikt ve dvou, dohodnu se s daným Applifterem na někom, komu oba dva důvěřujeme. Poprosíme ho, aby nám dělal mediátora konfliktu.
 
