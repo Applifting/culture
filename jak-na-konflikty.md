@@ -70,6 +70,14 @@ Vyjádři svůj respekt a kolegovi poděkuj za ochotu a odvahu konflikt otevřen
 
 Nezapomínej, že konflikt je soukromá věc. Tato schůzka je důvěrná, pokud se s kolegou nedohodnete jinak.
 
+## Když za tebou někdo přijde řešit konflikt
+
+Důležité je také vědět, jak se chovat na druhá straně konfliktu. Pokud za tebou kolega přijde a chce s tebou řešit problém, je fér mu vyjít vstříc a pozorně poslouchat, co chce říct. Neber konflikt jako osobní útok, ale jako možnost se zlepšit a dozvědět se víc o tom, jak tvé počínání vnímají ostatní.
+
+Pokus se nejprve zjistit, v čem kolega vidí problém a porozumět jeho úhlu pohledu. Potom mu vysvětli svoje motivace a proč jsi si myslel/a, že děláš správnou věc. Stejně jako druhá strana se snaž držet věci bez emocí a racionálně přemýšlet nad úhlem pohledu svého kolegy.
+
+Pokud si však za svým názorem stojíš, je to v naprostém pořádku - znamená to však, že spolu budete muset najít někoho, kdo vám s problémem pomůže.
+
 ## Když se nedaří najít řešení
 
 Pokud se vám nedaří domluvit se na dalším postupu, který by byl pro vás oba přijatelný, je na čase přizvat do řešení mediátora. 
