@@ -36,9 +36,11 @@ Pokud kolega nechce řešit konflikt s tebou o samotě, vyhledejte rovnou mediá
 
 ## Konflikt ve skupině
 
-Může se stát, že má s kolegou konflikt celá skupina. Není to uplně nejšťastnější dynamika konfliktu, proto **preferuj osobní konflikty před skupinovými**.
+Může se stát, že má s kolegou konflikt celá skupina. Není to uplně nejšťastnější dynamika konfliktu, proto **preferuj osobní konflikty před skupinovými**. 
 
-V případě skupinového konfliktu je potřeba začínat řešení rovnou s mediátorem.
+Vyvolání komnfliktu za skupinu by měl dělat jeden zástupce a měl by kolegovi zvědomit, že se jedná a skupinový konflikt.
+
+V případě skupinového konfliktu je potřeba začínat řešení přímo s mediátorem.
 
 ## Řešení konfliktu
 
