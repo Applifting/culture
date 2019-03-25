@@ -36,7 +36,11 @@ Pokud kolega nechce řešit konflikt s tebou o samotě, vyhledejte rovnou mediá
 
 ## Konflikt ve skupině
 
-Může se stát, že má s kolegou konflikt celá skupina. Není to uplně nejšťastnější dynamika konfliktu, proto **preferuj osobní konflikty před skupinovými**. 
+Může se stát, že má s kolegou konflikt celá skupina. Tato situace je velmi složitá ke korektnímu řešení a zejména velmi nekomfortní pro konfrontovaného kolegu. Měl by si se proto držet těchto pravidel:
+
+* Pokud máš s kolegou osobní konflikt, nezatahuj do něj další kolegy
+* Neřešte kolegovi věci za zády
+* Ber ohled na konfrontovaného, pokud budete řešit konflikt pod nátlakem, může se stát, že bude řešení neefektivní.
 
 Vyvolání komnfliktu za skupinu by měl dělat jeden zástupce a měl by kolegovi zvědomit, že se jedná a skupinový konflikt.
 
