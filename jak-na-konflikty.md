@@ -42,7 +42,9 @@ Teď je řada na tobě abys kladl otázky ty, nepřerušoval a naslouchal tvému
 
 Společně se domluvte na dalším postupu.
 
-Vyjádři svůj respekt a kolegovi poděkuj za ochotu a odvahu konflikt otevřeně a upřímně řešit. 
+Vyjádři svůj respekt a kolegovi poděkuj za ochotu a odvahu konflikt otevřeně a upřímně řešit.
+
+Nezapomínej, že konflikt je soukromá věc. Tato schůzka je důvěrná, pokud se s kolegou nedohodnete jinak.
 
 ## Když se nedaří najít řešení
 
