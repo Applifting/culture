@@ -62,12 +62,12 @@ Za mediátorem zajďete dohromady a poproste ho o mediaci společně.
 
 Pokud tě někdo poprosí, abys byl mediátorem konfliktu, předně jim poděkuj, že ti svěřují tak důležitou a soukromou záležitost. Mediaci přijmi pouze, pokud se na to cítíš. 
 
-Jako mediátor:
+Jako mediátor
 
-* Si vyslechni obě strany (ideálně postupuj dle sekcí v kapitole řešení konfliktu)
-* Nehodnoť, pouze nabízej různé pohledy na situaci
-* Parafrázuj řečené věci, snaž se budovat konsenzus
-* Otevřenými otázkami se snaž oboum dvoum stranám rozšířit pochopení situace
+* si vyslechni obě strany (ideálně postupuj dle sekcí v kapitole řešení konfliktu),
+* nehodnoť, pouze nabízej různé pohledy na situaci,
+* parafrázuj řečené věci, snaž se budovat konsenzus,
+* otevřenými otázkami se snaž oběma stranám rozšířit pochopení situace.
 
 Pokud se ani za pomocí mediace nedaří konflikt vyřešit, přichází na řadu řešení s radou starších.
 
