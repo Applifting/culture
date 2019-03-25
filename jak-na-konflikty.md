@@ -27,11 +27,18 @@ Věci, co ti můžou v tomhle pomoci:
  * Sedni si sám v tiché místnosti na 5 minut a zamedituj si o tvém kolegovi. Soustřeď se na jeho kladné vlastnosti a hezké věci, co jste spolu zažili. Uvědom si, že nacházející konflikt je pravděpodobně něco, čemu se za půl roku nad pivem zasmějete.
  * Jdi na chvíli pracovat nebo dělat něco jiného. Dělej něco, co ti dělá radost a obnoví tvoji víru v dobro lidí.
 
+
 ## Vyvolání řešení konfliktu
 
 Zastav kolegu v soukromí a popros ho, jestli by si na tebe na chvilku neudělal čas. Řekni mu, že s ním potřebuješ vyřešit nějaké pnutí (klidně to můžeš říct přátelštější či vtipnější formou). Pokud čas nemá, domluv se na čase, kdy se to bude oběma stranám hodit.
 
 Pokud kolega nechce řešit konflikt s tebou o samotě, vyhledejte rovnou mediátora.
+
+## Konflikt ve skupině
+
+Může se stát, že má s kolegou konflikt celá skupina. Není to uplně nejšťastnější dynamika konfliktu, proto **preferuj osobní konflikty před skupinovými**.
+
+V případě skupinového konfliktu je potřeba začínat řešení rovnou s mediátorem.
 
 ## Řešení konfliktu
 
@@ -63,7 +70,7 @@ Pokud se vám nedaří domluvit se na dalším postupu, který by byl pro vás o
 
 Ideální mediátor je:
 * Důvěryhodný pro obě strany
-* Nezaujatý v daném problému
+* Nezaujatý v daném konfliktu
 
 Za mediátorem zajďete dohromady a poproste ho o mediaci společně. 
 
