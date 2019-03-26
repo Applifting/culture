@@ -43,7 +43,7 @@ Může se stát, že má s kolegou konflikt celá skupina. Tato situace je velmi
 * Neřešte kolegovi věci za zády
 * Ber ohled na konfrontovaného, pokud budete řešit konflikt pod nátlakem, může se stát, že bude řešení neefektivní.
 
-Vyvolání komnfliktu za skupinu by měl dělat jeden zástupce a měl by kolegovi zvědomit, že se jedná a skupinový konflikt.
+Vyvolání konfliktu za skupinu by měl dělat jeden zástupce a měl by kolegovi zvědomit, že se jedná a skupinový konflikt.
 
 V případě skupinového konfliktu je potřeba začínat řešení přímo s mediátorem.
 
@@ -97,7 +97,7 @@ Pokud tě někdo poprosí, abys byl mediátorem konfliktu, předně jim poděkuj
 
 Jako mediátor
 
-* si vyslechni obě strany (ideálně postupuj dle sekcí v kapitole řešení konfliktu),
+* vyslechni obě strany a pokus se je pochopit (ideálně postupuj dle sekcí v kapitole řešení konfliktu),
 * nehodnoť, pouze nabízej různé pohledy na situaci,
 * parafrázuj řečené věci, snaž se budovat konsenzus,
 * otevřenými otázkami se snaž oběma stranám rozšířit pochopení situace.
