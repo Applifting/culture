@@ -47,6 +47,8 @@ Vyvolání konfliktu za skupinu by měl dělat jeden zástupce a měl by kolegov
 
 V případě skupinového konfliktu je potřeba začínat řešení přímo s mediátorem.
 
+Konflikt se poté řeší s celou skupinou.
+
 ## Řešení konfliktu
 
 Konflikt řeš někde, kde budete mít soukromí a když na to budete mít oba dostatečné množství času.
