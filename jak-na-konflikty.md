@@ -97,7 +97,7 @@ Za mediátorem zajďete dohromady a poproste ho o mediaci společně.
 
 Pokud tě někdo poprosí, abys byl mediátorem konfliktu, předně jim poděkuj, že ti svěřují tak důležitou a soukromou záležitost. Mediaci přijmi pouze, pokud se na to cítíš. 
 
-Pokud budeš mít v průběhu mediace konfliktu pocit, že už na ni nestačíš, neboj se o tom oběma stranám říct a požádat je, aby si našli nového mediátora.
+Pokud budeš mít v průběhu mediace konfliktu pocit, že už na ni nestačíš, neboj se o tom oběma stranám říct a požádat je, aby si našli nového mediátora a nebo se rovnou obrátit na radu starších.
 
 Jako mediátor
 
