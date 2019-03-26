@@ -62,6 +62,8 @@ Konflikt vezmeme před radu starších, pokud se nám nepovede konflikt vyřeši
 
 Konflikt je soukromá věc a měla by se stát veřejnou teprve tehdy, když tyto mechanismy selžou.
 
+Applifter by se neměl vyhýbat řešení konfliktů s ostatními. Pokud je mu to nepříjemné, může se jít poradit s radou starších.
+
 ### Nejsem toxický
 
 Nepoužívám svoje emoce jako zbraň proti ostatním. Nelžu, nezkresluji realitu, nešířím pomluvy, nekonspiruji.
