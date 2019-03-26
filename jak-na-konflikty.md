@@ -71,6 +71,8 @@ Vyjádři svůj respekt a kolegovi poděkuj za ochotu a odvahu konflikt otevřen
 
 Nezapomínej, že konflikt je soukromá věc. Tato schůzka je důvěrná, pokud se s kolegou nedohodnete jinak.
 
+Zvaž, zda-li se s kolegou nedomluvit na retrospektivě po nějaké době. Na ní si můžete checknout, že věc postupuje dle vašich očekávání.
+
 ## Když za tebou někdo přijde řešit konflikt
 
 Důležité je také vědět, jak se chovat na druhá straně konfliktu. Pokud za tebou kolega přijde a chce s tebou řešit problém, je fér mu vyjít vstříc a pozorně poslouchat, co chce říct. Neber konflikt jako osobní útok, ale jako možnost se zlepšit a dozvědět se víc o tom, jak tvé počínání vnímají ostatní.
