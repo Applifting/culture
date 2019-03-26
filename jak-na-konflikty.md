@@ -10,7 +10,7 @@ Níže najdeš doporučený postup, jak konflikty řešit tak, aby nám tu bylo 
 
 Před tím, než začneš s kolegou konflikt řešit, je dobré si v hlavě či na papíře ujasnit pár věcí. 
 
-**Cílem přípravy není mít co nejvíc argumentů k tomu, abys svůj protějšek ubil argumenty.** Cílem je schopnost nahlédnout na danou věc z více úhlů, vžít se do svého kolegy a pochopit jeho motivaci a chování.
+**Cílem přípravy není mít co nejvíc podkladů k tomu, abys svůj protějšek ubil argumenty.** Cílem je schopnost nahlédnout na danou věc z více úhlů, vžít se do svého kolegy a pochopit jeho motivaci a chování.
 
 - Co je věcným "odemočněným" předmětem konfliktu? Jak se daný problém dá popsat co nejvíc věcně?
 - Jak bude předmět konfliktu vnímat a vidět tvůj kolega?
@@ -96,6 +96,8 @@ Za mediátorem zajďete dohromady a poproste ho o mediaci společně.
 ## Role mediátora
 
 Pokud tě někdo poprosí, abys byl mediátorem konfliktu, předně jim poděkuj, že ti svěřují tak důležitou a soukromou záležitost. Mediaci přijmi pouze, pokud se na to cítíš. 
+
+Pokud budeš mít v průběhu mediace konfliktu pocit, že už na ni nestačíš, neboj se o tom oběma stranám říct a požádat je, aby si našli nového mediátora.
 
 Jako mediátor
 
