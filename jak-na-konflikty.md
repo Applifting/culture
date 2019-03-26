@@ -26,6 +26,7 @@ Věci, co ti můžou v tomhle pomoci:
 
  * Sedni si sám v tiché místnosti na 5 minut a zamedituj si o tvém kolegovi. Soustřeď se na jeho kladné vlastnosti a hezké věci, co jste spolu zažili. Uvědom si, že nacházející konflikt je pravděpodobně něco, čemu se za půl roku nad pivem zasmějete.
  * Jdi na chvíli pracovat nebo dělat něco jiného. Dělej něco, co ti dělá radost a obnoví tvoji víru v dobro lidí.
+ * Jakákoliv jiná metoda. Nakonec jsme každý trochu jiný a nejlíp se znáš ty sám/a.
 
 
 ## Vyvolání řešení konfliktu
