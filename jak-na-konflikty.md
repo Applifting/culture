@@ -87,7 +87,7 @@ Pokud si však za svým názorem stojíš, je to v naprostém pořádku - znamen
 
 Pokud se vám nedaří domluvit se na dalším postupu, který by byl pro vás oba přijatelný, je na čase přizvat do řešení mediátora. 
 
-"Vypadá to, že se nám samotným nedaří shonout na dalším postupu. Kdo by nám mohl pomoci najít řešení? Komu oba dva důvěřujeme?"
+"Vypadá to, že se nám samotným nedaří shodnout na dalším postupu. Kdo by nám mohl pomoci najít řešení? Komu oba dva důvěřujeme?"
 
 Ideální mediátor je:
 * Důvěryhodný pro obě strany
