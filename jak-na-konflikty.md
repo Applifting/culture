@@ -20,7 +20,9 @@ Před tím, než začneš s kolegou konflikt řešit, je dobré si v hlavě či 
 
 ## Před konfliktem
 
-Pokud máš s nadcházejícím konfliktem spojených hodně negativních emocí, zkus je nejdříve zmírnit. 
+Nejdřív si ověř fakta. Často se stává, že pocit konfliktu může být způsoben jen nepochopením jeden druhého. Ověř si, jestli jsi náhodou danou situaci nepochopil jinak, než jí dotyčný myslel.
+
+Pokud máš s nadcházejícím konfliktem spojených hodně negativních emocí, zkus je nejdříve zmírnit.
 
 Věci, co ti můžou v tomhle pomoci:
 
