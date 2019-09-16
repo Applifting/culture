@@ -13,6 +13,7 @@ Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 1. 📜🚀📜 [**Kodex Appliftera**](./kodex-appliftera.md) - Základní dokument, shrnující naše hodnoty
 2. 📜👨‍✈️📜 [**Kodex team leadera**](./kodex-team-leadera.md) - Kodex, dle kterého se řídí naši vedoucí týmů
 3. 📜👨‍🏫📜 **Kodex mentora** _(coming soon)_ - Kodex, dle kterého se řídí ti, kdo pečují o profesionální a lidský postup ostatních Applifterů
+4. 📜🥊📜[**Příručka pro řešení konfliktů**](./jak-na-konflikty.md) - V tomto dokumentu je popis procesu, který se v Appliftingu používá pro řešení pracovních i osobních konfliktů
 
 ## Zpětná vazba
 
