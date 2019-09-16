@@ -53,7 +53,7 @@ Stane se ti mnohokrát, že bude potřeba něco probrat se zákazníkem. Pokus s
 
 ### Výjimečné situace
 
-Někdy je potřeba zabrat, protože se blíží termín dodání nebo se stal nějaký nepředvídaný problém. Na tobě je dohodnout se a ujasnit si s klientem jaká situace je považována za výjimečnou, se kterou mu moc rádi pomůžeme, ale bude to účtováno vyšší sazbou.
+Někdy je potřeba zabrat, protože se blíží termín dodání nebo se stal nějaký nepředvídaný problém. Na tobě je dohodnout se a ujasnit si s klientem jaká situace je považována za výjimečnou, se kterou mu moc rádi pomůžeme, ale bude to účtováno vyšší sazbou. Za výjimčnou situaci se považuje práce o víkendu nebo práce nad rámec běžné pracovní doby.
 
 ### Komunikace vnitřní, teamová
 
