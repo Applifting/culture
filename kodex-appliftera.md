@@ -99,7 +99,7 @@ Pokud tuším, že neznám best practices pro danou problematiku, proaktivně pr
 
 Neustále se vzdělávám ve svém řemeslu, sleduji trendy a osvojuji si nové postupy. Nebojím se jít za rámec své hlavní profese, abych porozuměl a dokázal lépe spolupracovat s technologiemi a lidmi kolem sebe (frontenďák se přiučí backendu, grafik se přiučí, jak připravovat assety pro mobilní vývoj).
 
-Vzdělávám se také ve svých soft skillech, abych byl silnější osobností a lepším člověkem. Je v mém zájmu, aby lidé okolo mě se mnou pracovali rádi a abych se k nim choval tak, jak bych chtěl, aby se chovali oni ke mně.
+Pracuji také na svých soft skillech, abych byl vyzrálejší osobností. Snažím se rozvíjet své lidství. Je v mém zájmu, aby lidé okolo mě se mnou pracovali rádi a abych se k nim choval tak, jak bych chtěl, aby se chovali oni ke mně.
 
 ### S ostatními chci sdílet to, co umím
 
