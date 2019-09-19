@@ -6,6 +6,8 @@ This repository describes company culture in Applifting. We believe that, in sha
 2. 🔄 If we don't act according to our company culture, the surrounding world will let us know and will help us return to our values and principles.
 3. 🌎 People like working in Applifting. They are happy and find their job purposeful. We want people to have similar positive experience in other companies as well. By releasing our culture, we hope to inspire others to improve the work culture around them and share their findings, tools and results.
 
+## [🚩 Our Vision And Mission](https://www.notion.so/applifting/Vision-Mission-f951d7d4d53f408698cc09a598a2dd54)
+
 ## Applifting Codexes
 
 You can find the core Applifting documents which we abide by below:
@@ -13,6 +15,7 @@ You can find the core Applifting documents which we abide by below:
 1. 📜🚀📜 [**Applifter's Codex**](./kodex-appliftera.md) - Foundational document stating our values.
 2. 📜👨‍✈️📜 **Team Leader's Codex** *(coming soon)* - Codex for our team leaders.
 3. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
+4. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
 
 ## Feedback
 
