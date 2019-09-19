@@ -1,0 +1,1 @@
+TODO: translate [conflict guide](./jak-na-konflikty.md) into English
