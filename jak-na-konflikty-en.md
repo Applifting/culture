@@ -75,3 +75,43 @@ Express your respect and thank your colleague for their goodwill and courage to 
 Do not forget that a conflict is a private matter. Unless you reach a different agreement, your meeting is confidential.
 
 Consider arranging a retrospective meeting sometime in the future. You can check whether things are going according to your expectations there.
+
+## When someone asks you to handle a conflict
+
+Knowing how to behave when on the other side of a conflict is important. If a colleague sees you and wants to deal with a problem, it is only fair to meet their request and listen carefully to what they have to say. Do not view the conflict as a personal attack but, rather, as an opportunity to get better and learn more about how others perceive your conduct.
+
+At first, attempt to find out what your colleague sees as a problem and to understand their point of view. Afterwards, explain your motivation and why you thought you were doing the right thing. Like the other party, try to express yourself devoid of emotions and think rationally about your colleague's point of view.
+
+Standing by your opinion is absolutely fine, though it does mean that you will need to find someone who can help you with the problem.
+
+## When a solution cannot be found
+
+Should you fail to come up with a next step that would be acceptable for both parties, it is about time you invite a mediator into the process.
+
+"It seems we cannot agree on how to proceed on our own. Who can help us find a solution? Whom do we both trust?"
+
+An ideal mediator is:
+* Trustworthy for both parties
+* Unbiased in the given conflict
+
+Both of you should see the mediator and ask him to mediate the conflict together.
+
+## The mediator's role
+
+When someone asks you to be a mediator in a conflict, thank them first for putting their trust in you in such an important and personal matter. Only accept the role if you feel up to it.
+
+Should you, somewhere in the mediation process, have a feeling that this role is more than you can handle, do not be afraid to tell both parties and ask them to find a new mediator - or turn to the Council of Elders right away.
+
+As a mediator:
+* Listen to what both parties have to say and try to understand them (ideally, proceed in accordance with the sections in the chapter "Handling conflict" above),
+* Do not judge but, instead, offer different perspectives,
+* Rephrase what was said, try to establish a consensus,
+* In asking open questions, broaden both parties' insight.
+
+Should you fail to solve the conflict even with a mediator's help, consulting the Council of Elders is the next step to take.
+
+## Consulting the Council of Elders
+
+Consulting the Council of Elders works the same way as using a mediator.
+
+If, after some time, a solution acceptable for both parties cannot be found, the Council of Elders is entitled to decide the matter by a vote. This, however, is an extreme option which should only occur exceptionally. Moral authority of the Council should be sufficient for solving most conflicts without the need to make decisions for the conflict participants.

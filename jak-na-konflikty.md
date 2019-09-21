@@ -102,8 +102,7 @@ Pokud tě někdo poprosí, abys byl mediátorem konfliktu, předně jim poděkuj
 
 Pokud budeš mít v průběhu mediace konfliktu pocit, že už na ni nestačíš, neboj se o tom oběma stranám říct a požádat je, aby si našli nového mediátora a nebo se rovnou obrátit na radu starších.
 
-Jako mediátor
-
+Jako mediátor:
 * vyslechni obě strany a pokus se je pochopit (ideálně postupuj dle sekcí v kapitole řešení konfliktu),
 * nehodnoť, pouze nabízej různé pohledy na situaci,
 * parafrázuj řečené věci, snaž se budovat konsenzus,
@@ -113,6 +112,6 @@ Pokud se ani za pomocí mediace nedaří konflikt vyřešit, přichází na řad
 
 ## Řešení s radou starších
 
-Řešení s radou starších probíhá obdobně, jako řešení s mediátorem.
+Řešení s radou starších probíhá obdobně jako řešení s mediátorem.
 
-Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, tak má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varinta, ke které by mělo docházet naprosto výjimečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
+Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varianta, ke které by mělo docházet naprosto výjimečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
