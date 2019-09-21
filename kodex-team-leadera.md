@@ -2,7 +2,7 @@
 
 _Jednoduchá příručka, jak být dobrým team leaderem_
 
-Vést lidi není jednoduchá práce nejen v Appliftingu, někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady.
+Vést lidi není jednoduchá práce nejen v Appliftingu; někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady.
 
 Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./kodex-appliftera.md), tak si ho koukej přečíst než se pustíš do tohoto!
 
@@ -10,7 +10,7 @@ Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./kodex-a
 
 ### Pracuj s tím co máš
 
-Fakt se to stalo, vedeš team Applifterů, určitě team skvělých lidí. Je potřeba znát karty, se kterýma hraješ.
+Fakt se to stalo, vedeš team Applifterů, určitě team skvělých lidí. Je potřeba znát karty, se kterými hraješ.
 Buď si jistý s jakým skill faktorem disponuješ a deleguj dle toho práci. Buď realista a neklaď přehnané požadavky na juniora ani seniora, zadej jim to tak, aby byli všichni ok s tím, že to zvládnou.
 
 ### Buď tvrdej, ale fér
