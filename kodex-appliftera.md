@@ -28,8 +28,6 @@ Pokud máš problém s jiným Applifterem, tak to nedrž v sobě. Nejdřív se t
 
 Jedině upřímností a tím, že nebudeme věci zametat pod koberec, se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
 
-
-
 ## Důvěra
 
 ### Když něco slíbím, dodržím to. Moje sliby mají váhu
@@ -88,7 +86,6 @@ Preferujeme dělat naši práci společně na jednom místě ve stejný čas (pr
 
 Tady jde volnost ruku v ruce s tvojí vyzrálostí. Když dokážeš být remote efektivní a plníš to, co jsi slíbil, nemáme problém s tebou dlouhodobě makat, i kdybys byl třeba v Japonsku. :)
 
-
 ## Řemeslnost - Jsem dobrej ve svým oboru. Dělám to nejlíp, dle svého vědomí a svědomí
 
 ### Dělám věci “by the book”
@@ -101,7 +98,9 @@ Pokud tuším, že neznám best practices pro danou problematiku, proaktivně pr
 
 *"Learn or die"*
 
-Neustále se vzdělávám ve svém řemeslu, sleduji trendy a osvojuji si nové postupy. Nebojím se jít za rámec své hlavní profese, abych porozuměl a dokázal lépe spolupracovat s technologiemi a lidmi kolem sebe (frontenďák se přiučí backendu, grafik se přiučí, jak připravovat assety pro mobilní vývoj). 
+Neustále se vzdělávám ve svém řemeslu, sleduji trendy a osvojuji si nové postupy. Nebojím se jít za rámec své hlavní profese, abych porozuměl a dokázal lépe spolupracovat s technologiemi a lidmi kolem sebe (frontenďák se přiučí backendu, grafik se přiučí, jak připravovat assety pro mobilní vývoj).
+
+Pracuji také na svých soft skillech, abych byl vyzrálejší osobností. Snažím se rozvíjet své lidství. Je v mém zájmu, aby lidé okolo mě se mnou pracovali rádi a abych se k nim choval tak, jak bych chtěl, aby se chovali oni ke mně.
 
 ### S ostatními chci sdílet to, co umím
 
@@ -109,11 +108,6 @@ Neustále se vzdělávám ve svém řemeslu, sleduji trendy a osvojuji si nové 
 
 Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. Ať už je to ve formě workshopů, meetupů nebo jednoduchého one-on-one mentoringu. Vím, že je pro můj úspěch a úspěch Appliftingu důležité, když mám chytrého kolegu, který mě může podržet ve chvíli, kdy to potřebuju.
 
-
-
-
-
-
 ## Changelog
 
 | Verze | Datum | Popis změny | Autor |
