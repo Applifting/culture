@@ -12,10 +12,11 @@ This repository describes company culture in Applifting. We believe that, in sha
 
 You can find the core Applifting documents which we abide by below:
 
-1. 📜🚀📜 [**Applifter's Codex**](./kodex-appliftera.md) - Foundational document stating our values.
-2. 📜👨‍✈️📜 **Team Leader's Codex** *(coming soon)* - Codex for our team leaders.
+1. 📜🚀📜 [**Applifter's Codex**](./applifters-codex.md) - Foundational document stating our values.
+2. 📜👨‍✈️📜 [**Team Leader's Codex**](./team-leaders-codex.md) - Codex for our team leaders.
 3. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
-4. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
+4. 📜🤝📜 [**Conflict solution guide**](./managing-conflicts.md) - This document describes the process that Applifting uses for solving conflicts of both work and personal character
+5. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
 
 ## Feedback
 
