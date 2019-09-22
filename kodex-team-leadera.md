@@ -35,7 +35,7 @@ Dohlížím, aby lidé v mém teamu měli svého mentora a mohli se tak posouvat
 
 ### Pomáhej, buď po ruce
 
-Tvým úkolem není lidi v teamu topit s nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých skillech dál.
+Tvým úkolem není lidi v teamu topit v nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých skillech dál.
 
 ### Buď zodpovědný
 
@@ -43,7 +43,7 @@ Vést team s sebou nese příjemné úspěchy, ale i faily. Všichni to známe, 
 
 ### Když nevíš, tak nevíš - Přiznej to a najdi řešení v rámci teamu
 
-Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti co je třeba. Na řešení nemusíš vždy pracovat sám. Zásadní otázky probírej s celým teamem, jednotivosti můžeš řešit sám, nebo je můžeš delegovat na jednotlivé členy teamu.
+Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti co je třeba. Na řešení nemusíš vždy pracovat sám. Zásadní otázky probírej s celým teamem, jednotlivosti můžeš řešit sám, nebo je můžeš delegovat na jednotlivé členy teamu.
 
 ## Jsi frontmanem Appliftingu - Najdi v sobě ambasadora
 
