@@ -109,10 +109,9 @@ I also work on my soft skills so as to be a more mature personality. I try to de
 I am proud of my skills. I like to share my expertise with others, be it in the form of workshops, meetups or simple one-on-one mentoring. I know that sharing knowledge is essential for my own success and the success of Applifting. It is invaluable to have a competent colleague that can cover your back in your time of need.
 
 ## Changelog
-
-| Version | Date | Change | Author |
-|-------|-------|-------------|-------|
-| v0.7  | 2019/09/19 | Translate conflict and toxicity section | ZWG
-| v0.6  | 2019/03/11 | Proofread | ZWG  
-| v0.5  | 2018/12/12 | Translation to English  | Vráťa  
  
+| Version | Date       | Change                          | Author | Corresponding CZ version |
+| ------- | ---------- | ------------------------------- | ------ | ------------------------ |
+| v0.7    | 2019/09/19 | Translate conflict and toxicity | ZWG    | v0.6                     |
+| v0.6    | 2019/03/11 | Proofread                       | ZWG    | -                        |
+| v0.5    | 2018/12/12 | Translate                       | Vráťa  | -                        |

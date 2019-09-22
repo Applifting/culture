@@ -115,3 +115,10 @@ Pokud se ani za pomocí mediace nedaří konflikt vyřešit, přichází na řad
 Řešení s radou starších probíhá obdobně jako řešení s mediátorem.
 
 Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varianta, ke které by mělo docházet naprosto výjimečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
+
+## Changelog
+
+| Version | Date       | Change                          | Author |
+| ------- | ---------- | ------------------------------- | ------ |
+| v0.1    | 2019/09/17 | Add changelog to conflict guide | ZWG    |
+

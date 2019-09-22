@@ -115,3 +115,9 @@ Should you fail to solve the conflict even with a mediator's help, consulting th
 Consulting the Council of Elders works the same way as using a mediator.
 
 If, after some time, a solution acceptable for both parties cannot be found, the Council of Elders is entitled to decide the matter by a vote. This, however, is an extreme option which should only occur exceptionally. Moral authority of the Council should be sufficient for solving most conflicts without the need to make decisions for the conflict participants.
+
+## Changelog
+
+| Version | Date       | Change    | Author | Corresponding CZ version |
+| ------- | ---------- | --------- | ------ | ------------------------ |
+| v0.1    | 2019/09/22 | Translate | ZWG    | v0.1                     |

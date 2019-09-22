@@ -2,7 +2,7 @@
 
 _A simple guide on how to be a good team leader_
 
-Leading people is a difficult task not only in Applifting; some people are born to be leaders and do not have to do anything for it, while others need more time and some encouragement. In any case, everybody has ample room for improvement. This brief overview presents a map for all those who want to strive at a temaleding position. It is basically a guide for team leaders.
+Leading people is a difficult task not only in Applifting; some people are born to be leaders and do not have to do anything for it, while others need more time and some encouragement. In any case, everybody has ample room for improvement. This brief overview presents a map for all those who want to strive at a temleading position. It is basically a guide for team leaders.
 
 This document is obviously based on the [Applifter's codex](./kodex-appliftera-en.md), so do not proceed with reading this guide before you finish that one first!
 
@@ -19,7 +19,7 @@ On the other hand, if a deadline was agreed on, demand completion on time; deadl
 
 ### New people, fresh blood
 
-New people may enter the team, which is always great; however, some of them may not have what it takes, working for Applifting is never a piece of cake. You are the one who has to decide; try to stay unbiased. be fair but do not mince your words. In case of doubts go and talk to a different team leader, a member of the Council, alternately anyone you think can help you make the right decision.
+New people may enter the team, which is always great; however, some of them may not have what it takes, working for Applifting is never a piece of cake. You are the one who has to decide; try to stay unbiased, be fair but do not mince your words. In case of doubts go and talk to a different team leader, a member of the Council, alternately anyone you think can help you make the right decision.
 
 ### Make plans and do not take up more than you can handle
 
@@ -35,7 +35,7 @@ I make sure people on my team each have their own mentor and so are able to acqu
 
 ### Be helpful and on hand
 
-Your objective is not to drown your team in unreasonable requirements; as soon as you notice someone having a problem they have been struggling with for too long, go and help them get things done. Do not, however, try to help them prematurely; let people do things their own way first, let them know you believe in them! In short, act so that everybody has a chance to move forward with their skills.
+Your objective is not to drown your team in unreasonable requirements; as soon as you notice someone having a problem they have been struggling with for too long, go and help them get things done. Do not, however, try to help them prematurely; let people do things their own way first, let them know you believe in them! In short, act so that everybody has a chance to improve their skills.
 
 ### Be responsible
 
@@ -58,5 +58,5 @@ You are responsible for the team, so try to manage internal communication as wel
 ## Changelog
 
 | Version | Date       | Change    | Author | Corresponding CZ version |
-|---------|------------|-----------|--------|--------------------------|
-| v0.1    | 2019/09/22 | Translate | ZWG    | v0.3
+| ------- | ---------- | --------- | ------ | ------------------------ |
+| v0.1    | 2019/09/22 | Translate | ZWG    | v0.3                     |
