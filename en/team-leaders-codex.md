@@ -4,7 +4,7 @@ _A simple guide on how to be a good team leader_
 
 Leading people is a difficult task not only in Applifting; some people are born to be leaders and do not have to do anything for it, while others need more time and some encouragement. In any case, everybody has ample room for improvement. This brief overview presents a map for all those who want to strive at a temleading position. It is basically a guide for team leaders.
 
-This document is obviously based on the [Applifter's codex](./kodex-appliftera-en.md), so do not proceed with reading this guide before you finish that one first!
+This document is obviously based on the [Applifter's codex](./applifters-codex.md), so do not proceed with reading this guide before you finish that one first!
 
 ## Objectivity - My requirements are realistic and I treat everybody equally
 

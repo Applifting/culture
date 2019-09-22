@@ -4,7 +4,7 @@ _Jednoduchá příručka, jak být dobrým team leaderem_
 
 Vést lidi není jednoduchá práce nejen v Appliftingu; někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady.
 
-Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./kodex-appliftera.md), tak si ho koukej přečíst než se pustíš do tohoto!
+Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./applifters-codex.md), tak si ho koukej přečíst než se pustíš do tohoto!
 
 ## Objektivita - Mám realistické požadavky a všechny měřím stejným metrem
 
