@@ -1,4 +1,4 @@
-[ENGLISH BELLOW](#appliftings-company-culture-)
+[ENGLISH BELOW](#appliftings-company-culture-)
 
 # Firemní kultura Appliftingu 🚀
 
