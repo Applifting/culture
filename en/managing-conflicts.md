@@ -59,7 +59,7 @@ Proceed in accordance with the following points. Ask your colleague to listen an
 1. **This is what happened / This is what is happening** => Describe the point of conflict, without emotions.
 2. **This is the way it makes me feel** => Describe the emotional impact the conflict has on you. Try to regulate your emotions so that the other can handle them.
 3. **Why do I think it is / was wrong** => Let your colleague know why their behavior was, in your eyes, wrong (unless it is crystal clear).
-4. **I need this to happen / change** => Describe the expected change in your colleague's behavior / approach.
+4. **This is what I need from you** => Describe the expected change in your colleague's behavior / approach.
 
 Now it is your turn to ask questions, stop interrupting and listen to your colleague. Suppress your ego and try to understand them.
 
