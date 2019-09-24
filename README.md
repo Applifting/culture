@@ -49,4 +49,4 @@ You can find the core Applifting documents which we abide by below:
 
 ## Feedback
 
-Do elements of our company culture work for you? Do you have any feedback? Ideas for improvement? Please get in touch! Open a pull-request, create an issue, or connect with us on 🐦 [Twitter @applifting_cz](https://twitter.com/applifting_cz). We greatly appreciate any feedback.
+Do elements of our company culture work for you? Do you have any feedback? Ideas for improvement? Please get in touch! Open a pull-request, create an issue, or connect with us on 🐦 [Twitter @applifting_io](https://twitter.com/applifting_io). We greatly appreciate any feedback.
