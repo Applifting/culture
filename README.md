@@ -33,7 +33,7 @@ This repository describes company culture in Applifting. We believe that, in sha
 
 1. 🔮 Our actions and behavior will be transparent and our clients & partners will know what to expect from us.
 2. 🔄 If we don't act according to our company culture, the surrounding world will let us know and will help us return to our values and principles.
-3. 🌎 People like working in Applifting. They are happy and find their job purposeful. We want people to have similar positive experience in other companies as well. By releasing our culture, we hope to inspire others to improve the work culture around them and share their findings, tools and results.
+3. 🌎 People like working in Applifting. They are happy and find their job meaningful. We want people to have a similar positive experience in other companies as well. By releasing our culture, we hope to inspire others to improve the work culture around them and share their findings, tools and results.
 
 ## [🚩 Our Vision And Mission](https://www.notion.so/applifting/Vision-Mission-f951d7d4d53f408698cc09a598a2dd54)
 

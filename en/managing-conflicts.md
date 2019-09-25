@@ -2,7 +2,7 @@
 
 The goal of this guide is to help you manage conflict situations between you and other Applifters.
 
-The Applifter's Codex says that solving conflicts is an essential element in any organization. It is therefore important you know how to deal with a conflict so as to minimize its toxicity for both you and your colleague and so that your actions lead to a successful conflict denouement.
+The Applifter's Codex says that resolving conflicts is a natural part of being in any organization. It is therefore important you know how to deal with conflict so as to minimize its toxicity for both you and your colleague and so that your actions lead to a successful conflict resolution.
 
 Below, a procedure is recommended on how to solve conflicts so that we all feel comfortable here. Obviously, no two conflicts are the same and each one has to be dealt with a little differently. Should you be at a loss, go ask the Council of Elders for help. 
 
@@ -10,19 +10,19 @@ Below, a procedure is recommended on how to solve conflicts so that we all feel 
 
 Before you start handling a conflict with a colleague, it is desirable you clear a couple of things out in your head or on paper.
 
-**The goal of the preparation is not to have as much material as possible to knock your opponent out with arguments.** Instead, the goal is to be able to look at the problematics from different angles, put yourself in your colleague's shoes and understand their motivation and behavior.
+**The goal of the preparation is not to "collect ammunition" to beat your opponent down with arguments.** Instead, the goal is to be able to look at the problem/situation from different angles, put yourself in your colleague's shoes and understand their motivation and behavior.
 
 - What is the point of the conflict, devoid of emotions? How can you describe the problem matter-of-factly?
-- In what way is your colleague going to view the point of the conflict?
+- What is going to be the colleague's viewpoint in the conflict?
 - What emotions are you experiencing? How do you feel?
 - What emotions is your colleague likely to be experiencing?
-- What was your colleague's motivation? Why did he act the way he did?
+- What might be your colleague's motivation? Why did he act the way he did?
 
 ## Before the conflict
 
-First, check the facts. The perception of a conflict can often be caused by misunderstanding the other. Make sure that your understanding of the situation corresponds to that of your colleague.
+First, check the facts. The perception of a conflict can often be caused by misunderstanding. Make sure that you have a good enough understanding of the situation.
 
-If a lot of negative emotions are involved prior to the confrontation, try to temper them first.
+If you feel a lot of negative emotions prior to the confrontation, try to temper them first.
 
 Things that can help you with that:
 
@@ -40,11 +40,11 @@ In case your colleague refuses to handle the conflict with you in private, arran
 
 A situation may arise in which a whole group is in conflict with a colleague. This situation is especially tricky when it comes to a correct solution and it is particularly uncomfortable for the colleague in question. That is why you should abide by the following rules:
 
-* If you are handling a personal conflict with a colleague, do not get others involved.
+* If you are handling a personal conflict with a colleague, do not get others involved if not necessary.
 * Do not discuss problems behind your colleague's back.
 * Take the confronted colleague's position under consideration; should you handle conflict under pressure, the solution may prove to be ineffective.
 
-A chosen representative should initiate the conflict and they should inform the confronted colleague that a group conflict is being dealt with.
+A chosen representative should initiate the conflict and they should inform the confronted colleague that this is a group tension.
 
 In case of a group conflict it is necessary to initiate the solution with the help of a mediator.
 
@@ -66,7 +66,7 @@ Now it is your turn to ask questions, stop interrupting and listen to your colle
 1. **What do you think happened / is happening?** => Ask your colleague about their view of the point of the conflict.
 2. **How does it make you feel?** => Ask your colleague about emotions the whole situation brings them.
 3. **If you disagree with me, why do you think it is / was right?** => Ask your colleague why they think their conduct was right. Try to put yourself in their shoes and understand where they are coming from.
-4. **What do you need me to do / change?** => Ask your colleague what they need from you in order to comply with your wishes.
+4. **What support do you need from me in order to make this happen?** => Ask your colleague what they need from you in order to comply with your wishes.
 
 Come up with the next steps together.
 
@@ -94,7 +94,7 @@ An ideal mediator is:
 * Trustworthy for both parties
 * Unbiased in the given conflict
 
-Both of you should see the mediator and ask him to mediate the conflict together.
+You should seek the mediator and ask him to mediate the conflict together.
 
 ## The mediator's role
 
@@ -105,8 +105,8 @@ Should you, somewhere in the mediation process, have a feeling that this role is
 As a mediator:
 * Listen to what both parties have to say and try to understand them (ideally, proceed in accordance with the sections in the chapter "Handling conflict" above),
 * Do not judge but, instead, offer different perspectives,
-* Rephrase what was said, try to establish a consensus,
-* In asking open questions, broaden both parties' insight.
+* Rephrase what was said, try to build a consensus,
+* Broaden both parties' insight by asking open questions.
 
 Should you fail to solve the conflict even with a mediator's help, consulting the Council of Elders is the next step to take.
 
