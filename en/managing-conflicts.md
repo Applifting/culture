@@ -8,7 +8,7 @@ Below, a procedure is recommended on how to solve conflicts so that we all feel 
 
 ## Preparation
 
-Before you start handling a conflict with a colleague, it is desirable you clear a couple of things out in your head or on paper.
+Do you need to handle a conflict with a colleague? Before you start, you should clear a couple of things out in your head or on paper.
 
 **The goal of the preparation is not to "collect ammunition" to beat your opponent down with arguments.** Instead, the goal is to be able to look at the problem/situation from different angles, put yourself in your colleague's shoes and understand their motivation and behavior.
 
