@@ -56,7 +56,7 @@ The following procedure is applicable to any conflict type, ranging from failure
 
 Should there be some tension or a problem between me and another Applifter, first of all I handle it directly with them, face to face.
 
-If I do not know how to go about it, I follow [these instructions](./jak-na-konflikty-en.md).
+If I do not know how to go about it, I follow [these instructions](./managing-conflicts.md).
 
 If we fail to solve the problem with the person concerned, we choose a person we both trust and ask them to mediate the conflict.
 
@@ -72,8 +72,7 @@ I do not use emotions as a weapon against the others. I do not lie, distort real
 
 If I notice an Applifter behave in a toxic manner, I point it out to them in private.
 
-## Freedom 
-**I work as much as I want, where I want and when I want while respecting the agreement I made with my team members**
+## Freedom - I work as much as I want, where I want and when I want while respecting the agreement I made with my team members**
 
 ### I work as much as I want
 When you start a full-time position in Applifting, we expect you to work 7-8 hours a day. It's easy to change that. If you want to work less or more than that, just talk to your team leader and come to an arrangement that will suit both you and your team.
@@ -81,7 +80,6 @@ When you start a full-time position in Applifting, we expect you to work 7-8 hou
 There might come a time when we as a team need to steel ourselves and do some extra work to meet the deadlines. Sometimes you yourself will feel the need to make more effort and sometimes you will be asked by your colleagues to put in some extra work. We greatly appreciate you helping us in those times. Let us know if you work overtime regularly! These situations should be exceptional. Not that your overtime is not rewarded: your extra time is always rewarded by your standard wage. Nonetheless, we would be devastated if you burned out because of constant crunch time.
 
 Some people literally breathe for Applifting. (Vráťa, Filip and others ;-) ) Those guys and gals regularly work more than 8 hours per day; sometimes because they really enjoy it and sometimes because it is needed and they want to spare some other Applifters overtime work. Nobody asks you to be that involved. It is completely alright to work for 7-8 hours and then go home. We respect that, for some Applifters, there is a strict line between work and free time.
-
 
 ### I work where I want and when I want, but only if I have what it takes
 We prefer to work together in one place and during roughly the same work hours. (That's the way we enjoy our work the most!) But in the end, we do not care if you do your work early in the morning, at midnight or during normal work hours. We just need you to be able to coordinate the effort with others. Talk to your team about what their expectations are. Ask them what kind of work you can do alone and which tasks are better done together with a team.
@@ -102,6 +100,8 @@ Seek knowledge proactively. If you have a feeling that you do not completely kno
 
 I constantly work on myself and my craftsmanship. I keep up with trends. I am not afraid to go beyond my primary field and expand my horizons in order to better cooperate with my colleagues. (A front-end developer can learn something about backend, a graphic designer can learn to prepare assets for mobile developers etc.)
 
+I also work on my soft skills so as to be a more mature personality. I try to develop my humanity. It is in my interest that people around me like working with me and that I treat them the way I would like them to treat me.
+
 ### I want to share what I know with others
 
 *"Teach or die"*
@@ -109,10 +109,9 @@ I constantly work on myself and my craftsmanship. I keep up with trends. I am no
 I am proud of my skills. I like to share my expertise with others, be it in the form of workshops, meetups or simple one-on-one mentoring. I know that sharing knowledge is essential for my own success and the success of Applifting. It is invaluable to have a competent colleague that can cover your back in your time of need.
 
 ## Changelog
-
-| Version | Date | Change | Author |
-|-------|-------|-------------|-------|
-| v0.7  | 2019/09/19 | Translate conflict and toxicity section | ZWG
-| v0.6  | 2019/03/11 | Proofread | ZWG  
-| v0.5  | 2018/12/12 | Translation to English  | Vráťa  
  
+| Version | Date       | Change                          | Author | Corresponding CZ version |
+| ------- | ---------- | ------------------------------- | ------ | ------------------------ |
+| v0.7    | 2019/09/19 | Translate conflict and toxicity | ZWG    | v0.6                     |
+| v0.6    | 2019/03/11 | Proofread                       | ZWG    | -                        |
+| v0.5    | 2018/12/12 | Translate                       | Vráťa  | -                        |

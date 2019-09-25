@@ -2,15 +2,15 @@
 
 _Jednoduchá příručka, jak být dobrým team leaderem_
 
-Vést lidi není jednoduchá práce nejen v Appliftingu, někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady.
+Vést lidi není jednoduchá práce nejen v Appliftingu; někteří se s tím prostě narodí a nemusí pro to nic dělat, jiní naopak potřebují více času a trochu prostrčit. Všichni ale každopádně mají stále co zlepšovat. V tomto krátkém souhrnu je orientační mapa pro každého, kdo chce na pozici teamleada obstát. Jedná se v podstatě o guide pro teamleady.
 
-Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./kodex-appliftera.md), tak si ho koukej přečíst než se pustíš do tohoto!
+Tento dokument samozřejmě vychází z [Hej kámo kodexu Appliftingu](./applifters-codex.md), tak si ho koukej přečíst než se pustíš do tohoto!
 
 ## Objektivita - Mám realistické požadavky a všechny měřím stejným metrem
 
 ### Pracuj s tím co máš
 
-Fakt se to stalo, vedeš team Applifterů, určitě team skvělých lidí. Je potřeba znát karty, se kterýma hraješ.
+Fakt se to stalo, vedeš team Applifterů, určitě team skvělých lidí. Je potřeba znát karty, se kterými hraješ.
 Buď si jistý s jakým skill faktorem disponuješ a deleguj dle toho práci. Buď realista a neklaď přehnané požadavky na juniora ani seniora, zadej jim to tak, aby byli všichni ok s tím, že to zvládnou.
 
 ### Buď tvrdej, ale fér
@@ -35,7 +35,7 @@ Dohlížím, aby lidé v mém teamu měli svého mentora a mohli se tak posouvat
 
 ### Pomáhej, buď po ruce
 
-Tvým úkolem není lidi v teamu topit s nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých skillech dál.
+Tvým úkolem není lidi v teamu topit v nesmyslných požadavcích, jakmile vidíš, že má někdo s něčím problém, se kterým se neúspěšně trápí už moc dlouho, běž za ním a pomoz mu to vyřešit. Ale zase nechoď moc brzy, nech lidi se ve věcech trochu pohrabat, je třeba ukázat, že v ně věříš! Dělej to zkrátka tak, aby se všichni neustále posouvali ve svých skillech dál.
 
 ### Buď zodpovědný
 
@@ -43,7 +43,7 @@ Vést team s sebou nese příjemné úspěchy, ale i faily. Všichni to známe, 
 
 ### Když nevíš, tak nevíš - Přiznej to a najdi řešení v rámci teamu
 
-Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti co je třeba. Na řešení nemusíš vždy pracovat sám. Zásadní otázky probírej s celým teamem, jednotivosti můžeš řešit sám, nebo je můžeš delegovat na jednotlivé členy teamu.
+Neboj se to říct, nikdo není dokonalý. Řekni teamu, že si nejseš jistý, hlavně nemlž. Pak vstaň, zjisti co je třeba. Na řešení nemusíš vždy pracovat sám. Zásadní otázky probírej s celým teamem, jednotlivosti můžeš řešit sám, nebo je můžeš delegovat na jednotlivé členy teamu.
 
 ## Jsi frontmanem Appliftingu - Najdi v sobě ambasadora
 

@@ -30,7 +30,6 @@ Věci, co ti můžou v tomhle pomoci:
  * Jdi na chvíli pracovat nebo dělat něco jiného. Dělej něco, co ti dělá radost a obnoví tvoji víru v dobro lidí.
  * Jakákoliv jiná metoda. Nakonec jsme každý trochu jiný a nejlíp se znáš ty sám/a.
 
-
 ## Vyvolání řešení konfliktu
 
 Zastav kolegu v soukromí a popros ho, jestli by si na tebe na chvilku neudělal čas. Řekni mu, že s ním potřebuješ vyřešit nějaké pnutí (klidně to můžeš říct přátelštější či vtipnější formou). Pokud čas nemá, domluv se na čase, kdy se to bude oběma stranám hodit.
@@ -39,13 +38,13 @@ Pokud kolega nechce řešit konflikt s tebou o samotě, vyhledejte rovnou mediá
 
 ## Konflikt ve skupině
 
-Může se stát, že má s kolegou konflikt celá skupina. Tato situace je velmi složitá ke korektnímu řešení a zejména velmi nekomfortní pro konfrontovaného kolegu. Měl by si se proto držet těchto pravidel:
+Může se stát, že má s kolegou konflikt celá skupina. Tato situace je velmi složitá ke korektnímu řešení a zejména velmi nekomfortní pro konfrontovaného kolegu. Měl by ses proto držet těchto pravidel:
 
 * Pokud máš s kolegou osobní konflikt, nezatahuj do něj další kolegy
 * Neřešte kolegovi věci za zády
 * Ber ohled na konfrontovaného, pokud budete řešit konflikt pod nátlakem, může se stát, že bude řešení neefektivní.
 
-Vyvolání konfliktu za skupinu by měl dělat jeden zástupce a měl by kolegovi zvědomit, že se jedná a skupinový konflikt.
+Vyvolání konfliktu za skupinu by měl dělat jeden zástupce a měl by kolegovi zvědomit, že se jedná o skupinový konflikt.
 
 V případě skupinového konfliktu je potřeba začínat řešení přímo s mediátorem.
 
@@ -55,7 +54,7 @@ Konflikt se poté řeší s celou skupinou.
 
 Konflikt řeš někde, kde budete mít soukromí a když na to budete mít oba dostatečné množství času.
 
-Postupuj volně dle následujícíh bodů. Popros kolegu aby ti naslouchal a nepřerušoval tě.
+Postupuj volně dle následujících bodů. Popros kolegu aby ti naslouchal a nepřerušoval tě.
 
 1. **Tohle se stalo / Tohle se děje** => Popiš bez emocí předmět konfliktu. 
 2. **Takhle se kolem toho cítím** => Popiš jaký má na tebe předmět konfliktu emocionální dopad. Pokus se svoje emoce regulovat tak, aby to ten druhý ustál.
@@ -64,7 +63,7 @@ Postupuj volně dle následujícíh bodů. Popros kolegu aby ti naslouchal a nep
 
 Teď je řada na tobě abys kladl otázky ty, nepřerušoval a naslouchal tvému kolegovi. Upozaď ego a snaž se kolegu pochopit.
 
-1. **Co se podle tebe stalo? / Co se děje?** => Zeptej se kolegy jak předmět konfliktu vidí on. 
+1. **Co se podle tebe stalo? / Co se děje?** => Zeptej se kolegy, jak předmět konfliktu vidí on. 
 2. **Jak se kolem toho cítíš?** => Zeptej se kolegy, jaké má kolem celé situace emoce.
 3. **Pokud se mnou neshouhlasíš, proč si myslíš, že to bylo/je dobře?** => Zeptej se kolegy, proč si myslí, že postupoval dobře? Snaž se do něj vcítit a jeho motivaci pochopit.
 4. **Co ode mě potřebuješ, aby se to stalo / změnilo** => Zeptej se kolegy, co potřebuje od tebe, aby ti byl schopný vyhovět.
@@ -103,8 +102,7 @@ Pokud tě někdo poprosí, abys byl mediátorem konfliktu, předně jim poděkuj
 
 Pokud budeš mít v průběhu mediace konfliktu pocit, že už na ni nestačíš, neboj se o tom oběma stranám říct a požádat je, aby si našli nového mediátora a nebo se rovnou obrátit na radu starších.
 
-Jako mediátor
-
+Jako mediátor:
 * vyslechni obě strany a pokus se je pochopit (ideálně postupuj dle sekcí v kapitole řešení konfliktu),
 * nehodnoť, pouze nabízej různé pohledy na situaci,
 * parafrázuj řečené věci, snaž se budovat konsenzus,
@@ -114,6 +112,13 @@ Pokud se ani za pomocí mediace nedaří konflikt vyřešit, přichází na řad
 
 ## Řešení s radou starších
 
-Řešení s radou starších probíhá obdobně, jako řešení s mediátorem.
+Řešení s radou starších probíhá obdobně jako řešení s mediátorem.
 
-Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, tak má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varinta, ke které by mělo docházet naprosto výjimečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
+Pokud se po čase nedaří najít cestu akceptovatelnou pro obě strany, má rada starších právo rozhodnout hlasováním. Toto je ovšem krajní varianta, ke které by mělo docházet naprosto výjimečně. Morální autorita rady starších by měla být dostatečná k vyřešení většiny konfliktů bez nutnosti rozhodovat za účastníky konfliktu.
+
+## Changelog
+
+| Version | Date       | Change                          | Author |
+| ------- | ---------- | ------------------------------- | ------ |
+| v0.1    | 2019/09/17 | Add changelog to conflict guide | ZWG    |
+

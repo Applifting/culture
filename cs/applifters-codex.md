@@ -28,8 +28,6 @@ Pokud máš problém s jiným Applifterem, tak to nedrž v sobě. Nejdřív se t
 
 Jedině upřímností a tím, že nebudeme věci zametat pod koberec, se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
 
-
-
 ## Důvěra
 
 ### Když něco slíbím, dodržím to. Moje sliby mají váhu
@@ -58,7 +56,7 @@ Následující postup se využívá pro všechny typy konfliktů: od nedodržov�
 
 Když mám s nějakým Applifterem pnutí či konflikt, vždy ho nejdříve řeším mezi čtyřma očima přímo s ním.
 
-Pokud nevím jak na to, postupuji dle [tohoto návodu](./jak-na-konflikty.md). 
+Pokud nevím jak na to, postupuji dle [tohoto návodu](./managing-conflicts.md). 
 
 Pokud se mi nepovede vyřešit konflikt ve dvou, dohodnu se s daným Applifterem na někom, komu oba dva důvěřujeme. Poprosíme ho, aby nám dělal mediátora konfliktu.
 
@@ -88,7 +86,6 @@ Preferujeme dělat naši práci společně na jednom místě ve stejný čas (pr
 
 Tady jde volnost ruku v ruce s tvojí vyzrálostí. Když dokážeš být remote efektivní a plníš to, co jsi slíbil, nemáme problém s tebou dlouhodobě makat, i kdybys byl třeba v Japonsku. :)
 
-
 ## Řemeslnost - Jsem dobrej ve svým oboru. Dělám to nejlíp, dle svého vědomí a svědomí
 
 ### Dělám věci “by the book”
@@ -111,18 +108,13 @@ Pracuji také na svých soft skillech, abych byl vyzrálejší osobností. Snaž
 
 Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. Ať už je to ve formě workshopů, meetupů nebo jednoduchého one-on-one mentoringu. Vím, že je pro můj úspěch a úspěch Appliftingu důležité, když mám chytrého kolegu, který mě může podržet ve chvíli, kdy to potřebuju.
 
-
-
-
-
-
 ## Changelog
 
-| Verze | Datum | Popis změny | Autor |
-|-------|-------|-------------|-------|
-| v0.1  | 26.3.2018 | Initial internal release | Vráťa |
-| v0.2  | 17.6.2018 | Fixed typos, external release | Vráťa |
-| v0.3  | 18.6.2018 | Enhance grammar and style | ZWG  
-| v0.4  | 31.8.2018 | Add basic assumptions | Vráťa  
-| v0.5  | 12.12.2018 | Add paragraph about interpersonal conflict handling | Vráťa  
-| v0.6  | 25.3.2019 | Add conflict resolution and non-toxicity chapter | Vráťa
+| Verze | Datum      | Popis změny                                         | Autor |
+| ----- | ---------- | --------------------------------------------------- | ----- |
+| v0.1  | 26.3.2018  | Initial internal release                            | Vráťa |
+| v0.2  | 17.6.2018  | Fixed typos, external release                       | Vráťa |
+| v0.3  | 18.6.2018  | Enhance grammar and style                           | ZWG   |
+| v0.4  | 31.8.2018  | Add basic assumptions                               | Vráťa |
+| v0.5  | 12.12.2018 | Add paragraph about interpersonal conflict handling | Vráťa |
+| v0.6  | 25.3.2019  | Add conflict resolution and non-toxicity chapter    | Vráťa |
