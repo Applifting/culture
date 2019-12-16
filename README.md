@@ -25,8 +25,8 @@ Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 Jdeme za hranici naší práce. Chceme mít pozitivní vliv na komunity kolem nás a systematicky se tomu věnujeme.
 
 * 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifteři mohou pomáhat ostatním za peníze Appliftingu.
-* 💰 **Malou část zisku darujeme charitám** - Každý rok dáváme 0,5% zisku na charity. Obdarované organizace jsou vybírány Appliftery.
-* 👨‍💻👩‍💻 **Giving back to the tech community** - Sponzorujeme a pořádáme akce jako [ReactGirls](https://www.reactgirls.com/) nebo [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). V naších prostorách hostujeme spoustu tech meetupů, včetně našeho vlastního Applifting meetupu.
+* 💰 **Malou část zisku darujeme charitám** - Každý rok dáváme 0,5% zisku na charity. Obdarované organizace jsou vybírány Appliftery. Každý tak může přispět na to, co mu dává smysl.
+* 👨‍💻👩‍💻 **Giving back to the tech community** - Sponzorujeme a pořádáme akce jako [ReactGirls](https://www.reactgirls.com/) nebo [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). V našich prostorách hostujeme spoustu tech meetupů, včetně našeho vlastního Applifting meetupu.
 
 
 ## Zpětná vazba
@@ -60,8 +60,8 @@ You can find the core Applifting documents which we abide by below:
 
 We do not stop at the borders of our company. We are committed to having a positive impact on the communities around us.
 
-* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifters can do whatever they think is helpful to others and Applifting will pay for their time.
-* 💰 **Small portion of profit to charities** - Every year, we give out 0,5% of profit to charities. Charities are selected by Applifters.
+* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifters can do whatever they think is helpful to others and Applifting pays for their well-spent time.
+* 💰 **Small portion of profit to charities** - Every year, we give out 0,5% of profit to charities. Charities are selected by Applifters so everyone can donate to cause that's meaningful to them. 
 * 👨‍💻👩‍💻 **Giving back to the tech community** - We sponsor or host events such as [ReactGirls](https://www.reactgirls.com/) and [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). A variety of other tech meetups are also hosted on our premises including our Applifting meetup.
 
 ## Feedback
