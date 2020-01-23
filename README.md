@@ -24,7 +24,7 @@ Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 
 Jdeme za hranici naší práce. Chceme mít pozitivní vliv na komunity kolem nás a systematicky se tomu věnujeme.
 
-* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifteři mohou pomáhat ostatním za peníze Appliftingu.
+* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifteři mohou pomáhat ostatním a Applifting proplácí jejich čas. Nemusí tak při dělání toho co považují za prospěšné myslet na svůj rozpočet.
 * 💰 **Malou část zisku darujeme charitám** - Každý rok dáváme 0,5% zisku na charity. Obdarované organizace jsou vybírány Appliftery. Každý tak může přispět na to, co mu dává smysl.
 * 👨‍💻👩‍💻 **Giving back to the tech community** - Sponzorujeme a pořádáme akce jako [ReactGirls](https://www.reactgirls.com/) nebo [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). V našich prostorách hostujeme spoustu tech meetupů, včetně našeho vlastního Applifting meetupu.
 
