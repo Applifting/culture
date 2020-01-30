@@ -20,6 +20,15 @@ Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 4. 📜🤝📜 [**Příručka pro řešení konfliktů**](./cs/managing-conflicts.md) - V tomto dokumentu je popis procesu, který se v Appliftingu používá pro řešení pracovních i osobních konfliktů
 5. 📜🏛📜 [**Jak funguje Rada starších**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Dokument shrnující pravomoci našeho boardu a způsob, jakým do něj Applifteři volí členy.
 
+## Pomáháme ostatním
+
+Jdeme za hranici naší práce. Chceme mít pozitivní vliv na komunity kolem nás a systematicky se tomu věnujeme.
+
+* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifteři mohou pomáhat ostatním a Applifting proplácí jejich čas. Nemusí tak při dělání toho co považují za prospěšné myslet na svůj rozpočet.
+* 💰 **Malou část zisku darujeme charitám** - Každý rok dáváme 0,5% zisku na charity. Obdarované organizace jsou vybírány Appliftery. Každý tak může přispět na to, co mu dává smysl.
+* 👨‍💻👩‍💻 **Giving back to the tech community** - Sponzorujeme a pořádáme akce jako [ReactGirls](https://www.reactgirls.com/) nebo [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). V našich prostorách hostujeme spoustu tech meetupů, včetně našeho vlastního Applifting meetupu.
+
+
 ## Zpětná vazba
 
 Fungují vám elementy naší firemní kultury? Máte pro nás připomínky? Nápady na zlepšení? Pokud ano, tak nám zde prosím otevřete pull-request, vytvořte issue, nebo se s námi spojte pomocí našeho 🐦 [Twitter účtu @applifting_cz](https://twitter.com/applifting_cz). Velmi si vážíme jakékoli zpětné vazby.
@@ -46,6 +55,14 @@ You can find the core Applifting documents which we abide by below:
 3. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
 4. 📜🤝📜 [**Conflict solution guide**](./en/managing-conflicts.md) - This document describes the process that Applifting uses for solving conflicts of both work and personal character
 5. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
+
+## Outreach
+
+We do not stop at the borders of our company. We are committed to having a positive impact on the communities around us.
+
+* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifters can do whatever they think is helpful to others and Applifting pays for their well-spent time.
+* 💰 **Small portion of profit to charities** - Every year, we give out 0,5% of profit to charities. Charities are selected by Applifters so everyone can donate to cause that's meaningful to them. 
+* 👨‍💻👩‍💻 **Giving back to the tech community** - We sponsor or host events such as [ReactGirls](https://www.reactgirls.com/) and [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). A variety of other tech meetups are also hosted on our premises including our Applifting meetup.
 
 ## Feedback
 
