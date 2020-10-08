@@ -28,6 +28,10 @@ Pokud máš problém s jiným Applifterem, tak to nedrž v sobě. Nejdřív se t
 
 Jedině upřímností a tím, že nebudeme věci zametat pod koberec, se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
 
+### Dokážu přijmout zpětnou vazbu
+
+Pokud za tebou přijde někdo s konstruktivní zpětnou vazbou, oceň jeho snažení tím, že ji přijmeš. Nebuď přehnaně defenzivní a snaž se pochopit, v čem se ti kolega či kolegyně snaží pomoct.
+
 ## Důvěra
 
 ### Když něco slíbím, dodržím to. Moje sliby mají váhu
@@ -118,3 +122,4 @@ Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. A
 | v0.4  | 31.8.2018  | Add basic assumptions                               | Vráťa |
 | v0.5  | 12.12.2018 | Add paragraph about interpersonal conflict handling | Vráťa |
 | v0.6  | 25.3.2019  | Add conflict resolution and non-toxicity chapter    | Vráťa |
+| v0.7  | 8.10.2019  | Add paragraph about feedback acceptance             | Filip |
