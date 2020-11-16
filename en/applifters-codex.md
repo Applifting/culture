@@ -28,6 +28,10 @@ If you have a conflict with another Applifter, do not hold it inside. First, try
 
  Only with honesty and sincerity will we be able to keep Applifting a place where it is a joy to be working and where we can talk openly.
 
+### I can process feedback
+
+If you are approached by someone with constructive feedback, appreciate his effort. Don’t be too defensive and try to comprehend how your colleague is trying to help you. Think about what you could improve based on this information.
+
 ## Trust - I keep my promises
 
 ### I only make promises I intend to keep
@@ -112,6 +116,7 @@ I am proud of my skills. I like to share my expertise with others, be it in the 
  
 | Version | Date       | Change                          | Author | Corresponding CZ version |
 | ------- | ---------- | ------------------------------- | ------ | ------------------------ |
+| v0.8    | 2020/10/08 | Translate feedback acceptance   | Filip  | v0.7                     |
 | v0.7    | 2019/09/19 | Translate conflict and toxicity | ZWG    | v0.6                     |
 | v0.6    | 2019/03/11 | Proofread                       | ZWG    | -                        |
 | v0.5    | 2018/12/12 | Translate                       | Vráťa  | -                        |
