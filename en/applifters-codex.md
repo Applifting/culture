@@ -116,7 +116,7 @@ I am proud of my skills. I like to share my expertise with others, be it in the 
  
 | Version | Date       | Change                          | Author | Corresponding CZ version |
 | ------- | ---------- | ------------------------------- | ------ | ------------------------ |
-| v0.8    | 2019/10/08 | Translate feedback acceptance   | Filip  | v0.7                     |
+| v0.8    | 2020/10/08 | Translate feedback acceptance   | Filip  | v0.7                     |
 | v0.7    | 2019/09/19 | Translate conflict and toxicity | ZWG    | v0.6                     |
 | v0.6    | 2019/03/11 | Proofread                       | ZWG    | -                        |
 | v0.5    | 2018/12/12 | Translate                       | Vráťa  | -                        |
