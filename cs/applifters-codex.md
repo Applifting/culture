@@ -116,10 +116,10 @@ Jsem hrdý na to, co umím. Rád sdílím to, co jsem se naučil s ostatními. A
 
 | Verze | Datum      | Popis změny                                         | Autor |
 | ----- | ---------- | --------------------------------------------------- | ----- |
-| v0.1  | 26.3.2018  | Initial internal release                            | Vráťa |
-| v0.2  | 17.6.2018  | Fixed typos, external release                       | Vráťa |
-| v0.3  | 18.6.2018  | Enhance grammar and style                           | ZWG   |
-| v0.4  | 31.8.2018  | Add basic assumptions                               | Vráťa |
-| v0.5  | 12.12.2018 | Add paragraph about interpersonal conflict handling | Vráťa |
-| v0.6  | 25.3.2019  | Add conflict resolution and non-toxicity chapter    | Vráťa |
 | v0.7  | 8.10.2020  | Add paragraph about feedback acceptance             | Filip |
+| v0.6  | 25.3.2019  | Add conflict resolution and non-toxicity chapter    | Vráťa |
+| v0.5  | 12.12.2018 | Add paragraph about interpersonal conflict handling | Vráťa |
+| v0.4  | 31.8.2018  | Add basic assumptions                               | Vráťa |
+| v0.3  | 18.6.2018  | Enhance grammar and style                           | ZWG   |
+| v0.2  | 17.6.2018  | Fixed typos, external release                       | Vráťa |
+| v0.1  | 26.3.2018  | Initial internal release                            | Vráťa |
