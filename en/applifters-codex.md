@@ -28,9 +28,9 @@ If you have a conflict with another Applifter, do not hold it inside. First, try
 
  Only with honesty and sincerity will we be able to keep Applifting a place where it is a joy to be working and where we can talk openly.
 
-### I can accept feedback
+### I can process feedback
 
-If you are approached by someone with constructive feedback, appreciate his effort by accepting it. Don't be too defensive and try to comprehend how your colleague is trying to help you.
+If you are approached by someone with constructive feedback, appreciate his effort. Don’t be too defensive and try to comprehend how your colleague is trying to help you. Think about what you could improve based on this information.
 
 ## Trust - I keep my promises
 

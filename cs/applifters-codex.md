@@ -28,9 +28,9 @@ Pokud máš problém s jiným Applifterem, tak to nedrž v sobě. Nejdřív se t
 
 Jedině upřímností a tím, že nebudeme věci zametat pod koberec, se nám podaří udržet prostředí, ve kterém se nám bude o věcech jednoduše mluvit a ve kterém bude radost pracovat.
 
-### Dokážu přijmout zpětnou vazbu
+### Dokážu pracovat se zpětnou vazbou
 
-Pokud za tebou přijde někdo s konstruktivní zpětnou vazbou, oceň jeho snažení tím, že ji přijmeš. Nebuď přehnaně defenzivní a snaž se pochopit, v čem se ti kolega či kolegyně snaží pomoct.
+Pokud za tebou přijde někdo s konstruktivní zpětnou vazbou, oceň jeho snažení. Nebuď přehnaně defenzivní a snaž se pochopit, v čem se ti kolega či kolegyně snaží pomoct. Zamysli se nad tím, co bys mohl/a na základě této informace zlepšit.
 
 ## Důvěra
 
