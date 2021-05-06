@@ -1,4 +1,4 @@
-# Příručka pro získání zpětné vazby
+# Příručka pro získání zpětné vazby
 
 *Cílem této příručky je seznámit tě se zpětnou vazbou jako s nástrojem, který ti pomůže efektivně rozvíjet sám sebe i lidi kolem.*
 
@@ -6,7 +6,7 @@ Naší vizí je zlepšovat životy ostatních skrze práci, kterou odvádíme. J
 
 V tomto dokumentu se dočteš o třech metodách, které můžeš v Appliftingu použít k získání zpětné vazby a jak ji správně přijmout.
 
-Pokud tě někdo o zpětnou vazbu požádal, přečti si dokument [**Příručka pro dávání zpětné vazby**](./giving-feedback.md), kde se dočteš, jak má zpětná vazba vypadat, aby byla rozvojová a jak ji někomu dát.
+Pokud tě někdo o zpětnou vazbu požádal, přečti si [**Příručku pro dávání zpětné vazby**](./giving-feedback.md), kde se dočteš, jak má zpětná vazba vypadat, aby byla rozvojová a jak ji někomu dát.
 
 ---
 
@@ -35,11 +35,11 @@ Zpětná vazba:
 
 V Appliftingu máme několik způsobů, jak si můžeš říct o zpětnou vazbu.
 
-### Zpětná vazba 1:1
+### Zpětná vazba 1:1
 
-Chceš se rozvíjet? Zpětná vazba je ti dostupná od kohokoli, stačí si o ni jen říct. Jednoduše zajdi za svým kolegou a požádej ho, zda by ti mohl předat zpětnou vazbu na dané téma, které tě zajímá. Ptát se můžeš na konkrétní situaci, vaši spolupráci atd. S kolegou si rovnou naplánujte schůzku na předání vyžádané zpětné vazby (ideální doba je cca 2 týdny od toho, co ho o zpětnou vazbu požádáš a délka schůzky 45-60 min) a pošli mu i odkaz na [**Příručka pro dávání zpětné vazby**](./giving-feedback.md), ať kolega ví, jak na to.
+Chceš se rozvíjet? Zpětná vazba je ti dostupná od kohokoli, stačí si o ni jen říct. Jednoduše zajdi za svým kolegou a požádej ho, zda by ti mohl předat zpětnou vazbu na dané téma, které tě zajímá. Ptát se můžeš na konkrétní situaci, vaši spolupráci atd. S kolegou si rovnou naplánujte schůzku na předání vyžádané zpětné vazby (ideální doba je cca 2 týdny od toho, co ho o zpětnou vazbu požádáš a délka schůzky 45-60 min) a pošli mu i odkaz na [**Příručku pro dávání zpětné vazby**](./giving-feedback.md), ať kolega ví, jak na to.
 
-### Zpětná vazba od týmu: víc hlav, víc ví
+### Zpětná vazba od týmu: víc hlav, víc ví
 
 Rád bys dostal komplexní zpětnou vazbu? Požádej svého team leadera, aby od tvého týmu vybral zpětnou vazbu na tvou práci. Tvůj teamleader si získá zpětnou vazbu od tvého týmu a ta ti bude následně anonymně předána. Získáš odpověď na otázky:
 
@@ -47,7 +47,7 @@ Rád bys dostal komplexní zpětnou vazbu? Požádej svého team leadera, aby od
 * co bych měl začít dělat víc?
 * co bych měl přestat dělat, protože to narušuje spolupráci?
 
-### Zpětná vazba na pracovní vizi: kam kráčím
+### Zpětná vazba na pracovní vizi: kam kráčím
 
 Přemýšlíš nad vizí svojí práce a zda se ubírá tím správným směrem? Sjednej si se svým team leaderem zpětnovazebnou schůzku (ideálně na 1 hodinu), kde proberete:
 
