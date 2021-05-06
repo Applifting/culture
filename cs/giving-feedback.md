@@ -25,7 +25,7 @@ Zpětná vazba:
 * není negativní hnidopišství nebo kritika;
 * není hejt, kterým snižujeme něčí osobu či práci.
 
-# Když zpětnou vazbu dávám
+# Když zpětnou vazbu dávám
 
 V našem pojetí je zpětná vazba metodou rozvoje, proto by měla primárně pomoci tomu, kdo ji přijímá (ne tomu, kdo ji dává). Je zodpovědností poskytovatele zpětné vazby, dát ji tak, aby příjemci byla zpráva srozumitelná. To klade nárok na schopnost pojmenovávat chování a pocity. Konfrontaci se nevyhýbáme a projevujeme v ní zájem o druhého - cílem je druhému pomoci, ne ho zkritizovat.
 
