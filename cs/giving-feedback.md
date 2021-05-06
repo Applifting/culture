@@ -70,7 +70,7 @@ Pokud cítíme nejistotu nad tím, co a jak říct, pomůže ti tento model:
 * doporučení by měla být konkrétní, změřitelná;
 * může obsahovat i popis předpokládaného efektu, tedy co člověk získá změnou chování.
 
-## Jak se připravit na dávání zpětné vazby
+## Jak se připravit na dávání zpětné vazby
 
 Příprava je klíčem k tomu, aby naše zpětná vazba dosáhla kýženého efektu. Jak postupovat, když si od kolegy dostal žádost o sdílení zpětné vazby nebo ji chceš dát z vlastní iniciativy:
  
