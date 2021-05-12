@@ -57,6 +57,54 @@ Přemýšlíš nad vizí svojí práce a zda se ubírá tím správným směrem?
 
 Případně můžeš svému team leaderovi napsat i další otázky, na které bys rád znal odpověď.
 
+## Když zpětnou vazbu přijímám
+
+Vyslechnout si negativní zpětnou vazbu může být někdy nepříjemné. Člověk má přirozenou tendenci chránit sám sebe, obhajovat své chování nebo být dokonce agresivní. Pro lepší přijímání zpětné vazby je třeba uvědomit si její záměr.
+
+### Jak zpětnou vazbu vnímáme
+
+Asi ta nejdůležitější věc na zpětné vazbě je to, že je to dárek 🎁. Dárek, který dává jedna osoba druhé s tím jediným záměrem - zlepšení. Pokud budeme zpětnou vazbu vnímat jako rozvojový dárek, bude se nám mnohem lépe přijímat i dávat.
+
+Klíčový benefit feedbacku je to, že nám ukazuje naše slepé místo (blind spot). Pomáhá nám vidět naše silné i slabé stránky očima jiného člověka. Díky tomu objevujeme nové souvislosti a významy, které nám samotným zůstávaly skryty.
+
+### Jak odpovědět na zpětnou vazbu
+
+Dodržení těchto principů v průběhu jejího sdílení ti pomůže přijmou zpětnou vazbu co nejvíce otevřeně. Díky tomu z ní budeš moci maximálně těžit a zároveň ve druhém podpoříš ochotu zpětnou vazbu poskytovat. Tím přispíváš ke kultuře dávání zpětné vazby v celém Appliftingu.
+
+1. **Jasnost a srozumitelnost** - získej co nejjasnější informace o tom, na co zpětnou vazbu dostáváš, využívej naslouchání druhé strany a dotazuj se na detaily.
+
+2. **Nepouštěj se do obhajoby či protiútoku** - agresivní protiútok a domýšlení jsou nejčastější chyby na straně příjemce, místo toho si zpětnou vazbu vyslechni a dovol si na ni nereagovat hned, abys získal od situace odstup, díky kterému pak zpětnou vazbu sám lépe posoudíš.
+
+3. **Pozitivně** - ačkoli může být přijímání zpětné vazby stresující, tvou snahou (stejně jako poskytovatele zpětné vazby) je nezatížit ji negativními emocemi.
+
+4. **Otevřená mysl** - převezmi zodpovědnost za to, jakým způsobem zpětnou vazbu přijmeš a postavíš se k ní, je jen na tobě, jestli ji budeš vnímat jako zbytečnou kritiku nebo podnět ke zlepšení.
+
+5. **Zaznamenávej** - zpětnou vazbu si (klidně už v průběhu předávání) zapisuj a ukládej, aby ses k ní později mohl vrátit.
+
+6. **Poděkuj** - druhý ti dal přeci dárek! Nezapomeň mu za to poděkovat a tím se spolupodílet na vytvoření bezpečné atmosféry.
+
+### Co udělat po schůzce
+
+* Zpracuj si získané informace (nejlépe si je sepiš nebo zakresli do myšlenkové mapy) a vyhodnoť, zda jsou pro tebe podnětem ke změně, nebo tě naopak utvrzují tvé jednání neměnit.
+
+* Nezapomeň na to, že je  zpětná vazba subjektivní a neváhej si získat názor i od dalších lidí (kteří jsou ideálně ve stejné roli/situaci, jako ten který ti původně zpětnou vazbu dal).
+
+* Rozhodni se, zda budeš aktivně pracovat na změně. Nezapomínej, že ty jsi ten jediný, kdo může tento krok udělat.
+
+* Pokud se rozhodneš něco měnit, můžeš si po určitě době vyžádat znovu zpětnou vazbu, abys věděl, zda ses i ve vnímání ostatních posunul.
+
+   zamysli se nad tím, za jak dlouho budou vidět dopady změny ve tvém chování (někdy to mohou být dny, ale jindy zase měsíce - záleží na povaze změny);
+
+   s ohledem na čas, kdy bude vidět změna, opět zajdi za kolegou a sděl mu svůj záměr - tedy aktualizovat informace o tom, jak kolega vnímá tvůj posun v rámci daného tématu;
+
+   společně naplánujte schůzku (doporučený čas je 30 min), kde ti opět předá zpětnou vazbu, která se týká už jen konkrétní rozvojové oblasti;
+
+   o svém progresu a rozvoji se můžeš bavit také se svým leaderem (například v rámci 1:1 schůzek).
+
+* Jestli máš pocit, že na změnu sám nestačíš, je úplně ok říct si o pomoc. K dispozici máš svého team leadera, mentora, nebo popros HR o propojení s koučem.
+
+💡 Ať se zpětná vazba týká čehokoliv, pro dosažení efektu je nezbytné s ní následně pracovat. Pokud usilujeme o změnu chování, dosáhneme jí jedině dlouhodobou prací, monitorováním našeho snažení a postupným dosahováním dílčích cílů. 
+
 | Verze | Datum       | Popis změny                                         | Autor |
 | ----- | ----------- | --------------------------------------------------- | ----- |
 | v0.1  | 5. 5. 2021  | Initial release                                     | Filip, Gabča, Káťa |
