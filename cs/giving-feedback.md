@@ -35,7 +35,7 @@ Pozor na ničivou empatii! Někdy se stane, že stojíme před rozhodnutím, zda
 
 **Cíl:** Chceme prohloubit poznání hodnoceného člověka, jeho silných i slabých stránek a osobnostního rozvoje, což tvoří základ pro další zvyšování pracovního výkonu
 
-**Jasnost, srozumitelnost, konkrétnost:** mysli na to, že zpětná vazba je zkreslená šumem způsobeným interpersonální komunikací (např. tón hlasu, neverbální komunikace, atribuční chyby atd.). Tvá komunikace musí být i přesto dostatečně srozumitelná a jasná, nikoli vágní. K tomu ti pomůže uvádět konkrétní příklady.
+**Jasnost, srozumitelnost, konkrétnost:** mysli na to, že zpětná vazba je zkreslená šumem způsobeným interpersonální komunikací (např. tón hlasu, neverbální komunikace, [atribuční chyby](https://cs.wikipedia.org/wiki/Z%C3%A1kladn%C3%AD_atribu%C4%8Dn%C3%AD_chyba) atd.). Tvá komunikace musí být i přesto dostatečně srozumitelná a jasná, nikoli vágní. K tomu ti pomůže uvádět konkrétní příklady.
 
 **To, co jde změnit:** zpětnou vazbu dáváme na pozorovatelné chování, nikoli na parametry lidské osobnosti a další charakteristiky, které nemůžeme změnit (např. neříkám člověku, že je nedochvilný, ale mohu mu dát zpětnou vazbu na to, že přišel opakovaně pozdě).
 
