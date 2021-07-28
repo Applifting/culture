@@ -1,4 +1,4 @@
-# A guide to giving feedback
+# Giving Feedback Guide
 
 *This guide introduces feedback as a tool which can help you effectively improve yourself as well as people around you.*
 
