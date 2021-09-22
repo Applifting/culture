@@ -39,7 +39,7 @@ Pozor na ničivou empatii! Někdy se stane, že stojíme před rozhodnutím, zda
 
 **To, co jde změnit:** zpětnou vazbu dáváme na pozorovatelné chování, nikoli na parametry lidské osobnosti a další charakteristiky, které nemůžeme změnit (např. neříkám člověku, že je nedochvilný, ale mohu mu dát zpětnou vazbu na to, že přišel opakovaně pozdě).
 
-**“JÁ” forma:** zpětnou vazbu dáváme s vědomím, že se jedná o můj subjektivní názor nikolik objektivní pravdu. Dáváme ji na to, s čím máme přímou zkušenost a formulujeme ji vztaženou k naší osobě (například: Já se z toho cítím zklamaný, nikoly Ty jsi mě zklamal).
+**“JÁ” forma:** zpětnou vazbu dáváme s vědomím, že se jedná o můj subjektivní názor nikolik objektivní pravdu. Dáváme ji na to, s čím máme přímou zkušenost a formulujeme ji vztaženou k naší osobě (například: Já se z toho cítím zklamaný, nikoliv Ty jsi mě zklamal).
 
 **Orientace na budoucnost:** nechceme se plácat v minulosti, jde nám hlavně o poučení do budoucna.
 
