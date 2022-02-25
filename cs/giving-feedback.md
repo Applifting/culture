@@ -4,7 +4,7 @@
 
 ---
 
-💡 Jsi teamleader? Zařaď dávání zpětné vazby do své daily routine! Zlepší to vztahy s tvým týmem, ujasníte si očekávání, posílíš to, co podle tebe funguje a zasadíš se o kulturu dávání zpětné vazby v Appliftingu. Podrobnější postup najdeš už brzy v [**Kodexu team leadera**](./team-leader-codex.md).
+💡 Jsi teamleader? Zařaď dávání zpětné vazby do své daily routine! Zlepší to vztahy s tvým týmem, ujasníte si očekávání, posílíš to, co podle tebe funguje a zasadíš se o kulturu dávání zpětné vazby v Appliftingu. Podrobnější postup najdeš už brzy v [**Kodexu team leadera**](./team-leaders-codex.md).
 
 ---
 
