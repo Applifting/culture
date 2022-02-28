@@ -10,7 +10,7 @@ If someone has asked you for feedback, read the [**Giving Feedback Guide**](./gi
 
 ---
 
-💡 Are you a team leader? Add feedback to your daily routine! It might improve the relation with your team, clears expectations,reinforces what works well and adds to the overall feedback culture of Applifting. Detailed note can be soon found in [**Team leader codex**](./team-leader-codex.md).
+💡 Are you a team leader? Add feedback to your daily routine! It might improve the relation with your team, clears expectations,reinforces what works well and adds to the overall feedback culture of Applifting. Detailed note can be soon found in [**Team leader codex**](./team-leaders-codex.md).
 
 ---
 
