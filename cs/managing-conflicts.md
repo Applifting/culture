@@ -112,8 +112,7 @@ Jako mediátor:
 * otevřenými otázkami se snaž oběma stranám rozšířit pochopení situace, .
 * shrň oběma stranám co se stalo, jak situaci každý z nich vnímal, jaké emoce prožívali a ověř si, že jsi správně porozuměl celé situaci,
 * zeptej se následně, zda chtějí k situaci ještě něco dodat,
-* pokud do této chvíle nevíš, co by každý z nich potřeboval změnit, aby byl spokojený, zeptej se
-* jich otevřenou otázkou (_„Jak by podle každého z vás vypadalo ideální řešení této situace?“_),
+* pokud do této chvíle nevíš, co by každý z nich potřeboval změnit, aby byl spokojený, zeptej se jich otevřenou otázkou (_„Jak by podle každého z vás vypadalo ideální řešení této situace?“_),
 * snaž se se stranami konfliktu najít řešení, které bude vyhovovat oběma.
 
 Pokud se ani za pomocí mediace nedaří konflikt vyřešit, přichází na řadu řešení s radou starších.
