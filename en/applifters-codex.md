@@ -60,7 +60,7 @@ The following procedure is applicable to any conflict type, ranging from failure
 
 Should there be some tension or a problem between me and another Applifter, first of all I handle it directly with them, face to face.
 
-If I do not know how to go about it, I follow [these instructions](./managing-conflicts.md).
+If I do not know how to go about it, I follow [these instructions](./managing-tensions.md).
 
 If we fail to solve the problem with the person concerned, we choose a person we both trust and ask them to mediate the conflict.
 
