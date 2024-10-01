@@ -10,7 +10,7 @@ Lead by setting a clear direction, not by micromanaging. Applifters should be em
 
 Your role is to inspire and to remove obstacles. Instead of managing people, mentor them. Help others find their path to success, be it through advice, knowledge, or resources.
 
-Value each person's contribution, regardless of title or status. Every voice in the organization is important.
+Value each person's contribution, regardless of title or status. Every voice in the organization should be heard.
 
 Make sure Applifting integrates all of our goals - health of the company, our wellbeing, and our vision of positive planetary impact.
 
