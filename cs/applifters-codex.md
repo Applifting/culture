@@ -10,7 +10,7 @@ Naše firemní kultura vychází z těchto základních předpokladů:
 * Jsme dobří a féroví lidé
 * Jsme motivováni přinášet hodnotu ostatním
 * Všichni chtějí nést zodpovědnost za věci, na kterých jim záleží (a mít související uznání, respekt a rozhodovací pravomoci)
-* Bez trochy štěstí není výkonů
+* Abychom mohli odvádět dobrou práci, je potřeba, abychom byli spokojení v ní i v soukromém životě.
 
 ## Řemeslnost - Vynikám ve svém oboru. Dělám vše dle svého nejlepšího vědomí a svědomí
 
