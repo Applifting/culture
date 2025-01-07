@@ -4,15 +4,19 @@ The C-Team in Applifting is a group of dedicated leaders who guide the company's
 
 ## Lead with Vision, Not Control
 
-### Trust in Teal culture
+### Trust in the Teal culture
 
-Lead by setting a clear direction, not by micromanaging. Applifters should be empowered to make decisions and take responsibility.
+Teal culture is built on three fundamental principles:
 
-Your role is to inspire and to remove obstacles. Instead of managing people, mentor them. Help others find their path to success, be it through advice, knowledge, or resources.
+1. **Authenticity and Self-Expression**: Be your authentic self and create space for others to do the same. Leadership in a teal organization means removing masks and encouraging genuine self-expression at all levels.
 
-Value each person's contribution, regardless of title or status. Every voice in the organization should be heard.
+2. **Self-Management and Empowerment**: Rather than taking responsibility for others, empower them to take responsibility for themselves. Your role is to create conditions where people can grow, make decisions, and own their outcomes. Guide and mentor, but avoid solving problems that others should solve themselves.
 
-Make sure Applifting integrates all of our goals - health of the company, our wellbeing, and our vision of positive planetary impact.
+3. **Evolutionary Purpose**: Stay attuned to how the organization and its environment are evolving. Adapt and respond to changes organically, letting the organization's purpose guide decision-making rather than rigid control structures.
+
+Lead by setting a clear direction, not by micromanaging. Make sure Applifting integrates all levels of our goals - health of the company, our wellbeing goals and our vision of positive planetary impact.
+
+Value each person's contribution, regardless of title or status. Every voice in the organization is important.
 
 ### Freedom with Responsibility
 
@@ -25,6 +29,10 @@ Before implementing significant changes, consult and collaborate with the Counci
 ## Lead by example
 
 First and foremost, be an example for other Applifters. Live by the Applifter's codex.
+
+### Be an Ambassador
+
+Externally, be an ambassador of Applifting's values. Communicate openly with customers and partners, ensuring your actions align with the values of transparency and authenticity.
 
 ### Sincerity in Communication
 
@@ -41,10 +49,6 @@ Understanding the perspectives and emotions of others is essential. Lead with em
 ### Preserve our Culture of Joy and Fulfillment
 
 Leadership is not only about success but also about joy. It is your role to maintain a space where people enjoy their work. Embrace a fun, informal culture where people can be themselves.
-
-### Be an Ambassador
-
-Externally, be an ambassador of Applifting's values. Communicate openly with customers and partners, ensuring your actions align with the values of transparency and authenticity.
 
 ## Changelog
  
