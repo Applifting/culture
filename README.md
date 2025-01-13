@@ -8,7 +8,7 @@ V tomto repozitáři najdete firemní kulturu Appliftingu. Věříme, že pokud 
 2. 🔄 Pokud nebudeme jednat dle naší firemní kultury, okolní svět nás upozorní a pomůže nám vrátit se k našim hodnotám a principům.
 3. 🌎 V Appliftingu dává lidem práce smysl a jsou spokojení. Chceme, aby to podobně fajn bylo i v jiných organizacích. Doufáme, že ostatní inspirujeme k tomu, aby pozitivně měnili pracovní kulturu kolem sebe a sdíleli své poznatky, nástroje a výsledky.
 
-## [🚩 Naše Vize a Mise](https://www.notion.so/applifting/Vision-Mission-f951d7d4d53f408698cc09a598a2dd54)
+## [🚩 Naše Vize a Mise](https://www.notion.so/applifting/Vision-Mission-112031acb160805e8b6fcb8fd8789cea)
 
 ## Kodexy Appliftingu
 
@@ -45,7 +45,7 @@ This repository describes company culture in Applifting. We believe that, in sha
 2. 🔄 If we don't act according to our company culture, the surrounding world will let us know and will help us return to our values and principles.
 3. 🌎 People like working in Applifting. They are happy and find their job meaningful. We want people to have a similar positive experience in other companies as well. By releasing our culture, we hope to inspire others to improve the work culture around them and share their findings, tools and results.
 
-## [🚩 Our Vision And Mission](https://www.notion.so/applifting/Vision-Mission-f951d7d4d53f408698cc09a598a2dd54)
+## [🚩 Our Vision And Mission](https://www.notion.so/applifting/Vision-Mission-112031acb160805e8b6fcb8fd8789cea)
 
 ## Applifting Codexes
 
