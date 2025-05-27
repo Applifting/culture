@@ -16,10 +16,11 @@ Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 
 1. 📜🚀📜 [**Kodex Appliftera**](./cs/applifters-codex.md) - Základní dokument, shrnující naše hodnoty
 2. 📜👨‍✈️📜 [**Kodex team leadera**](./cs/team-leaders-codex.md) - Kodex, dle kterého se řídí naši vedoucí týmů
-3. 📜👨‍🏫📜 **Kodex mentora** _(coming soon)_ - Kodex, dle kterého se řídí ti, kdo pečují o profesionální a lidský postup ostatních Applifterů
-4. 📜🤝📜 [**Příručka pro řešení pnutí**](./cs/managing-tensions.md) - V tomto dokumentu je popis procesu, který se v Appliftingu používá pro řešení pracovních i osobních pnutí
-5. 📜🤝📜 [**Příručka pro získání zpětné vazby**](./cs/getting-feedback.md) a [**Příručka pro dávání zpětné vazby**](./cs/giving-feedback.md) - Tyto dvě příručky popisují, jak si říct o zpětnou vazbu, jak s ní pracovat, ale i jak jí dávat
-6. 📜🏛📜 [**Jak funguje Rada starších**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Dokument shrnující pravomoci našeho boardu a způsob, jakým do něj Applifteři volí členy.
+3. 📜🧙‍♂️📜 [**Kodex Rady Starších**](./cs/council-codex.md) - Kodex, dle kterého se řídí naši vedoucí týmů
+4. 📜👨‍🏫📜 **Kodex mentora** _(coming soon)_ - Kodex, dle kterého se řídí ti, kdo pečují o profesionální a lidský postup ostatních Applifterů
+5. 📜🤝📜 [**Příručka pro řešení pnutí**](./cs/managing-tensions.md) - V tomto dokumentu je popis procesu, který se v Appliftingu používá pro řešení pracovních i osobních pnutí
+6. 📜🤝📜 [**Příručka pro získání zpětné vazby**](./cs/getting-feedback.md) a [**Příručka pro dávání zpětné vazby**](./cs/giving-feedback.md) - Tyto dvě příručky popisují, jak si říct o zpětnou vazbu, jak s ní pracovat, ale i jak jí dávat
+7. 📜🏛📜 [**Jak funguje Rada starších**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Dokument shrnující pravomoci našeho boardu a způsob, jakým do něj Applifteři volí členy.
 
 ## Pomáháme ostatním
 
@@ -53,9 +54,10 @@ You can find the core Applifting documents which we abide by below:
 
 1. 📜🚀📜 [**Applifter's Codex**](./en/applifters-codex.md) - Foundational document stating our values.
 2. 📜👨‍✈️📜 [**Team Leader's Codex**](./en/team-leaders-codex.md) - Codex for our team leaders.
-3. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
-4. 📜🤝📜 [**Tension solution guide**](./en/managing-tensions.md) - This document describes the process that Applifting uses for solving tensions of both work and personal character
-5. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
+3. 📜🧙‍♂️📜 [**Council of Elders Codex**](./en/council-codex.md) - Codex for our Council of Elders.
+4. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
+5. 📜🤝📜 [**Tension solution guide**](./en/managing-tensions.md) - This document describes the process that Applifting uses for solving tensions of both work and personal character
+6. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
 
 ## Outreach
 
