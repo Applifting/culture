@@ -17,7 +17,7 @@ Níže najdete interní dokumenty Appliftingu, dle kterých se u nás řídíme.
 1. 📜🚀📜 [**Kodex Appliftera**](./cs/applifters-codex.md) - Základní dokument, shrnující naše hodnoty
 2. 📜👨‍✈️📜 [**Kodex team leadera**](./cs/team-leaders-codex.md) - Kodex, dle kterého se řídí naši vedoucí týmů
 3. 📜🧙‍♂️📜 [**Kodex Rady Starších**](./cs/council-codex.md) - Kodex, dle kterého se řídí naši vedoucí týmů
-4. 📜👨‍🏫📜 **Kodex mentora** _(coming soon)_ - Kodex, dle kterého se řídí ti, kdo pečují o profesionální a lidský postup ostatních Applifterů
+4. 📜👨‍🏫📜 **Kodex mentora** _(coming soon)_ - Kodex, dle kterého se řídí ti, kdo pečují o profesní a lidský růst ostatních Applifterů
 5. 📜🤝📜 [**Příručka pro řešení pnutí**](./cs/managing-tensions.md) - V tomto dokumentu je popis procesu, který se v Appliftingu používá pro řešení pracovních i osobních pnutí
 6. 📜🤝📜 [**Příručka pro získání zpětné vazby**](./cs/getting-feedback.md) a [**Příručka pro dávání zpětné vazby**](./cs/giving-feedback.md) - Tyto dvě příručky popisují, jak si říct o zpětnou vazbu, jak s ní pracovat, ale i jak jí dávat
 7. 📜🏛📜 [**Jak funguje Rada starších**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Dokument shrnující pravomoci našeho boardu a způsob, jakým do něj Applifteři volí členy.
