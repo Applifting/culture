@@ -43,9 +43,13 @@ The Council is not a manager of the C-Team, but it is a strategic partner and et
 
 ## How the Council Works
 
-- Council meets every two weeks. Any Applifter can attend, listen in, or ask for a topic to be added to the agenda (todo link to section for applifters).
-- Meetings are public unless the topic is sensitive — for example, when it concerns personal conflict, emotionally charged issues or confidential matters.
-- Complex discussions that require a lot of context and would be hard to explain on the spot can be also discussed in private. In such case, the decision must still be presented publicly afterward.
+- Council meets every two weeks. Once a month this meeting is public and any Applifter can attend, listen in, or ask for a topic to be added to the agenda (todo link to section for applifters).
+- Private meetings are essential for:
+  - Discussing sensitive topics like personal conflicts or confidential matters
+  - Preparing and refining proposals before they're presented publicly
+  - Having thorough discussions that require deep context and wouldn't be productive in a public setting
+  - Working through complex issues that need time and space to be properly understood
+- While private meetings are where most of the work happens, any decisions made must still be presented publicly afterward.
 - Council decisions are made by consent — at least half of the members must actively support a proposal, and no one should have strong, unresolved objections.
 
 ## Being a Council Member
