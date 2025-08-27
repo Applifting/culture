@@ -1,4 +1,42 @@
-[ENGLISH BELOW](#appliftings-company-culture-)
+[ČESKY](#firemní-kultura-appliftingu-)
+
+
+# Applifting's company culture 🚀
+
+This repository describes company culture in Applifting. We believe that, in sharing it as an open source:
+
+1. 🔮 Our actions and behavior will be transparent and our clients & partners will know what to expect from us.
+2. 🔄 If we don't act according to our company culture, the surrounding world will let us know and will help us return to our values and principles.
+3. 🌎 People like working in Applifting. They are happy and find their job meaningful. We want people to have a similar positive experience in other companies as well. By releasing our culture, we hope to inspire others to improve the work culture around them and share their findings, tools and results.
+
+## [🚩 Our Vision And Mission](https://www.notion.so/applifting/Vision-Mission-112031acb160805e8b6fcb8fd8789cea)
+
+## Applifting Codexes
+
+You can find the core Applifting documents which we abide by below:
+
+1. 📜🚀📜 [**Applifter's Codex**](./en/applifters-codex.md) - Foundational document stating our values.
+2. 📜👨‍✈️📜 [**Team Leader's Codex**](./en/team-leaders-codex.md) - Codex for our team leaders.
+3. 📜🧙‍♂️📜 [**Council of Elders Codex**](./en/council-codex.md) - Codex for our Council of Elders.
+4. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
+5. 📜🤝📜 [**Tension solution guide**](./en/managing-tensions.md) - This document describes the process that Applifting uses for solving tensions of both work and personal character
+6. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
+
+## Outreach
+
+We do not stop at the borders of our company. We are committed to having a positive impact on the communities around us.
+
+* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifters can do whatever they think is helpful to others and Applifting pays for their well-spent time.
+* 💰 **Small portion of profit to charities** - Every year, we give out 0,5% of profit to charities. Charities are selected by Applifters so everyone can donate to cause that's meaningful to them. 
+* 👨‍💻👩‍💻 **Giving back to the tech community** - We sponsor or host events such as [ReactGirls](https://www.reactgirls.com/) and [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). A variety of other tech meetups are also hosted on our premises including our Applifting meetup.
+
+## Feedback
+
+Do elements of our company culture work for you? Do you have any feedback? Ideas for improvement? Please get in touch! Open a pull-request, create an issue, or connect with us on 🐦 [Twitter @applifting_io](https://twitter.com/applifting_io). We greatly appreciate any feedback.
+
+
+---
+
 
 # Firemní kultura Appliftingu 🚀
 
@@ -34,39 +72,3 @@ Jdeme za hranici naší práce. Chceme mít pozitivní vliv na komunity kolem n�
 ## Zpětná vazba
 
 Fungují vám elementy naší firemní kultury? Máte pro nás připomínky? Nápady na zlepšení? Pokud ano, tak nám zde prosím otevřete pull-request, vytvořte issue, nebo se s námi spojte pomocí našeho 🐦 [Twitter účtu @applifting_cz](https://twitter.com/applifting_cz). Velmi si vážíme jakékoli zpětné vazby.
-
-
----
-
-# Applifting's company culture 🚀
-
-This repository describes company culture in Applifting. We believe that, in sharing it as an open source:
-
-1. 🔮 Our actions and behavior will be transparent and our clients & partners will know what to expect from us.
-2. 🔄 If we don't act according to our company culture, the surrounding world will let us know and will help us return to our values and principles.
-3. 🌎 People like working in Applifting. They are happy and find their job meaningful. We want people to have a similar positive experience in other companies as well. By releasing our culture, we hope to inspire others to improve the work culture around them and share their findings, tools and results.
-
-## [🚩 Our Vision And Mission](https://www.notion.so/applifting/Vision-Mission-112031acb160805e8b6fcb8fd8789cea)
-
-## Applifting Codexes
-
-You can find the core Applifting documents which we abide by below:
-
-1. 📜🚀📜 [**Applifter's Codex**](./en/applifters-codex.md) - Foundational document stating our values.
-2. 📜👨‍✈️📜 [**Team Leader's Codex**](./en/team-leaders-codex.md) - Codex for our team leaders.
-3. 📜🧙‍♂️📜 [**Council of Elders Codex**](./en/council-codex.md) - Codex for our Council of Elders.
-4. 📜👨‍🏫📜 **Mentor's Codex** *(coming soon)* - Codex for people who take care about personal and professional growth of other Applifters.
-5. 📜🤝📜 [**Tension solution guide**](./en/managing-tensions.md) - This document describes the process that Applifting uses for solving tensions of both work and personal character
-6. 📜🏛📜 [**How Council of Elders works**](https://www.notion.so/applifting/How-Council-of-Elders-Works-8dff507d7f9247fdb68c0d4029331628) - Defines powers and responsibilities of our board. Describes the process, how council members are elected by Applifters. 
-
-## Outreach
-
-We do not stop at the borders of our company. We are committed to having a positive impact on the communities around us.
-
-* 🤗 [**Spirit of Applifting**](https://www.notion.so/applifting/Spirit-of-Applifting-1cbf1c9247cc442da73f768ffcedadc4) - Applifters can do whatever they think is helpful to others and Applifting pays for their well-spent time.
-* 💰 **Small portion of profit to charities** - Every year, we give out 0,5% of profit to charities. Charities are selected by Applifters so everyone can donate to cause that's meaningful to them. 
-* 👨‍💻👩‍💻 **Giving back to the tech community** - We sponsor or host events such as [ReactGirls](https://www.reactgirls.com/) and [RailsGirls](https://twitter.com/applifting_io/status/1112388321890713602). A variety of other tech meetups are also hosted on our premises including our Applifting meetup.
-
-## Feedback
-
-Do elements of our company culture work for you? Do you have any feedback? Ideas for improvement? Please get in touch! Open a pull-request, create an issue, or connect with us on 🐦 [Twitter @applifting_io](https://twitter.com/applifting_io). We greatly appreciate any feedback.
