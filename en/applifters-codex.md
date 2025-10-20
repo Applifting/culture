@@ -19,7 +19,7 @@ I know the standards and best practices in my field. I perform my craft accordin
 
 Seek knowledge proactively. If you have a feeling that you do not completely know the best practices in your field, it is always a good idea to consult a more experienced Applifter.
 
-###I want to be good and I am prepared to do something for it.
+### I want to be good and I am prepared to do something for it.
 "Learn or die"
 
 I constantly work on myself and my craftsmanship. I keep up with trends. I am not afraid to go beyond my primary field and expand my horizons in order to better cooperate with my colleagues. (A front-end developer can learn something about backend, a graphic designer can learn to prepare assets for mobile developers etc.)
