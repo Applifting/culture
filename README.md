@@ -33,7 +33,7 @@ We do not stop at the borders of our company. We are committed to having a posit
 
 ## Feedback
 
-Do elements of our company culture work for you? Do you have any feedback? Ideas for improvement? Please get in touch! Open a pull-request, create an issue, or connect with us on 🐦 [Twitter @applifting_io](https://twitter.com/applifting_io). We greatly appreciate any feedback.
+Do elements of our company culture work for you? Do you have any feedback? Ideas for improvement? Please get in touch! Open a pull-request, create an issue, or connect with us on [Instagram @applifting.io](https://www.instagram.com/applifting.io). We greatly appreciate any feedback.
 
 
 ---
@@ -72,4 +72,4 @@ Jdeme za hranici naší práce. Chceme mít pozitivní vliv na komunity kolem n�
 
 ## Zpětná vazba
 
-Fungují vám elementy naší firemní kultury? Máte pro nás připomínky? Nápady na zlepšení? Pokud ano, tak nám zde prosím otevřete pull-request, vytvořte issue, nebo se s námi spojte pomocí našeho 🐦 [Twitter účtu @applifting_cz](https://twitter.com/applifting_cz). Velmi si vážíme jakékoli zpětné vazby.
+Fungují vám elementy naší firemní kultury? Máte pro nás připomínky? Nápady na zlepšení? Pokud ano, tak nám zde prosím otevřete pull-request, vytvořte issue, nebo se s námi spojte pomocí našeho [Instagramu @applifting.io](https://www.instagram.com/applifting.io). Velmi si vážíme jakékoli zpětné vazby.
